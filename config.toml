@@ -60,8 +60,6 @@ googleAnalytics = "UA-123-45"
   #  name = "twitter"
   #  url = "https://twitter.com/carambola_la"
 
-  googleMapsAPIKey = "AIzaSyB44NfvXYGmfbfMakctrDfLABebpS-zp5Y"
-
   [[params.social]]
     name = "instagram"
     url = "https://instagram.com/tascalacarambola"

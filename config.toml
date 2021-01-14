@@ -1,77 +1,105 @@
-baseURL = "https://tascalacarambola.com"
-languageCode = "es-ES"
-defaultContentLanguage = "es"
-title = "La Carambola"
-theme = "hermit"
-# enableGitInfo = true
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
-rssLimit = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-googleAnalytics = "UA-123-45"
-# disqusShortname = "yourdiscussshortname"
+baseurl      = "tascalacarambola.com"
+title        = "La Carambola"
+languageCode = "es-es"
+theme        = "hello-friend-ng"
+paginate     = 10
+DefaultContentLanguage = "es"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Tasca La Carambola</a>'
+defaultContentLanguageInSubdir = false
+disableLanguageSwitchingButton = true
 
-[author]
-  name = "La Carambola"
 
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
-
-[taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  #homeSubtitle = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  # description = ""
-  # images = ["logo.png"]
-  themeColor = "#494f5c"
+  description = "Tasca La Carambola's site"
+  keywords = "site, tasca, restaurant"
+  images = [""]
 
-  #homeSubtitle = "Tasca"
-  footerCopyright = ''
-  bgImg = "logo.png"  # Homepage background-image URL
-  
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  #bgimg = "/images/pizarra.png"
 
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
-  relatedPosts = false  # Add a related content section to all single posts page
+[params.logo]
+      logoText = "La Carambola"
+      logoHomeLink = "/"
+      path = "/images/tasca.png"
 
-  code_copy_button = true # Turn on/off the code-copy-button for code-fields
-  
-  # Add custom css
-  #customCSS = ["css/insertlogo.css"]
-
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  
-  # [[params.social]]
-  #  name = "twitter"
-  #  url = "https://twitter.com/carambola_la"
-
-  [[params.social]]
+[[params.social]]
     name = "instagram"
     url = "https://instagram.com/tascalacarambola"
 
-[menu]
+[permalinks]
+   posts = "/:year/:month/:title/"
 
-  [[menu.main]]
+[languages]
+  [languages.en]
+    homeSubtitle = "Welcome to our place!"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+    languagename = "English"
+    languageCode = "en-UK"
+    
+  # And you can even create generic menu
+  [[languages.en.menu.main]]
     name = "Menu"
     url = "menu/"
     weight = 10
 
-  [[menu.main]]
+  [[languages.en.menu.main]]
+    name = "Reservations"
+    url = "https://reservas.tascalacarambola.com"
+    weight = 20
+  
+  [languages.es]
+    homeSubtitle = "Bienvenidos a nuestra casa!"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+    languagename = "Español"
+    languageCode = "es-ES"
+
+  [[languages.es.menu.main]]
+    name = "Carta"
+    url = "menu/"
+    weight = 10
+
+  [[languages.es.menu.main]]
     name = "Reservas"
+    url = "https://reservas.tascalacarambola.com"
+    weight = 20
+
+  [languages.de]
+    homeSubtitle = "Willkommen in unserem Zuhause!"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+    languagename = "Deutsche"
+    languageCode = "de-DE"
+
+  [[languages.de.menu.main]]
+    name = "Speisekarte"
+    url = "menu/"
+    weight = 10
+
+  [[languages.de.menu.main]]
+    name = "Buchungen"
     url = "https://reservas.tascalacarambola.com"
     weight = 20

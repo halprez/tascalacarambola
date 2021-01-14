@@ -20,7 +20,7 @@
 }
 
 html {
-  background: #1a1a1a;
+  background: $light-grey;
   line-height: 1.6;
   letter-spacing: .06em;
   scroll-behavior: smooth;
@@ -496,8 +496,8 @@ p.img-404 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
-  height: 60%;
+  width: 50%;
+  height: 50%;
 }
 
 .bg-img {
@@ -505,7 +505,7 @@ p.img-404 {
     height: auto;
     width: auto\9; /* ie8 */
 
-  opacity: .9;
+  opacity: .8;
   z-index: auto;
   position: absolute;
   top: 0;

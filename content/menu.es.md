@@ -1,6 +1,6 @@
 ---
-title: "Menu"
-draft: true
+title: "Carta"
+draft: false
 ---
 
 | Plato | Precio 1/2 ración | Precio 1 ración |

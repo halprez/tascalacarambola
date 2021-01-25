@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{ .Permalink }}</title>
-    <link rel="canonical" href="{{ .Permalink }}"/>
+    <title>tascalacarambola.com/es</title>
+    <link rel="canonical" href="tascalacarambola.com/es"/>
     <meta name="robots" content="noindex">
     <meta charset="utf-8"/>
     <noscript>
-        <meta http-equiv="refresh" content="0; url={{ .Permalink }}"/>
+        <meta http-equiv="refresh" content="0; url=tascalacarambola.com/es"/>
     </noscript>
     <script>
       ;(function () {
-        // Only do i18n at root, 
-        // otherwise, redirect immediately
+        
+        
         if (window.location.pathname !== '/') {
-          window.location.replace('{{ .Permalink }}')
-          return
-        }
-
-        if (window.location.pathname !== '/menu/') {
-          window.location.replace('{{ .Permalink }}')
+          window.location.replace('tascalacarambola.com\/es')
           return
         }
 
@@ -37,7 +32,7 @@
             }
           }
 
-          // support for other well known properties in browsers
+          
           for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
             language = nav[browserLanguagePropertyKeys[i]]
             if (language && language.length) {
@@ -51,30 +46,20 @@
 
         if (window.location.pathname == '/') {
             if (preferLang.indexOf('en') !== -1) {
-            window.location.replace('/en/')
+            window.location.replace('/en')
             } else if (preferLang.indexOf('de') !== -1) {
-                window.location.replace('/de/')
+                window.location.replace('/de')
             } else {
-            // fallback to Spanish
-            window.location.replace('/es/')
+            
+            window.location.replace('/es')
             }
-        }
-
-        if (window.location.pathname == '/menu/') {
-            if (preferLang.indexOf('en') !== -1) {
-            window.location.replace('/en/menu/')
-            } else if (preferLang.indexOf('de') !== -1) {
-                window.location.replace('/de/menu/')
-            } else {
-            // fallback to Spanish
-            window.location.replace('/es/menu/')
-            }
+        
         }
     })()
     </script>
 </head>
 <body>
 <h1>Rerouting</h1>
-<p>You should be rerouted in a jiff, if not, <a href="{{ .Permalink }}">click here</a>.</p>
+<p>You should be rerouted in a jiff, if not, <a href="tascalacarambola.com/es">click here</a>.</p>
 </body>
 </html>

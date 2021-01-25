@@ -1,12 +1,27 @@
 ---
 title: "Carta"
 draft: false
+aliases: [/menu/]
 ---
 
-| Plato | Precio 1/2 ración | Precio 1 ración |
-|---|---:|---:|
-| Solomillo troceado | 10| 14|
-| Tortilla canaria | 6| 8|
-| Revuelto setas y gambas | 8| 10|
+<details>
+<summary>Entrantes</summary>
 
-*Precios en Euros (€)
+| Plato | 1/2 ración | 1 ración |
+|---|---:|---:|
+| Solomillo troceado | 10€| 14€|
+| Tortilla canaria | 6€| 8€|
+| Revuelto de setas y gambas | 8€| 10€|
+</details>
+
+<details>
+<summary>Carnes</summary>
+
+| Plato | 1/2 ración | 1 ración |
+|---|---:|---:|
+| Solomillo troceado | 10€| 14€|
+| Tortilla canaria | 6€| 8€|
+| Revuelto setas y gambas | 8€| 10€|
+</details>
+
+

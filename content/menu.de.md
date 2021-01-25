@@ -1,6 +1,7 @@
 ---
 title: "Speisekarte"
 draft: false
+aliases: [/de/menu/]
 ---
 
 | Dish | Price 1/2 serving | Price 1 serving |

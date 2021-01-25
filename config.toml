@@ -1,4 +1,4 @@
-baseurl      = "tascalacarambola.com"
+baseurl      = "https://tascalacarambola.com"
 title        = "La Carambola"
 languageCode = "es-es"
 theme        = "hello-friend-ng"

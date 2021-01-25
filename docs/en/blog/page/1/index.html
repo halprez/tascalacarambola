@@ -1,65 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>tascalacarambola.com/en/blog/</title>
-    <link rel="canonical" href="tascalacarambola.com/en/blog/"/>
-    <meta name="robots" content="noindex">
-    <meta charset="utf-8"/>
-    <noscript>
-        <meta http-equiv="refresh" content="0; url=tascalacarambola.com/en/blog/"/>
-    </noscript>
-    <script>
-      ;(function () {
-        
-        
-        if (window.location.pathname !== '/') {
-          window.location.replace('tascalacarambola.com\/en\/blog\/')
-          return
-        }
-
-        var getFirstBrowserLanguage = function () {
-          var nav = window.navigator,
-          browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
-          i,
-          language
-
-          if (Array.isArray(nav.languages)) {
-            for (i = 0; i < nav.languages.length; i++) {
-              language = nav.languages[i]
-              if (language && language.length) {
-                return language
-              }
-            }
-          }
-
-          
-          for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
-            language = nav[browserLanguagePropertyKeys[i]]
-            if (language && language.length) {
-              return language
-            }
-          }
-          return 'en'
-        }
-
-        var preferLang = getFirstBrowserLanguage()
-
-        if (window.location.pathname == '/') {
-            if (preferLang.indexOf('en') !== -1) {
-            window.location.replace('/en')
-            } else if (preferLang.indexOf('de') !== -1) {
-                window.location.replace('/de')
-            } else {
-            
-            window.location.replace('/es')
-            }
-        
-        }
-    })()
-    </script>
-</head>
-<body>
-<h1>Rerouting</h1>
-<p>You should be rerouted in a jiff, if not, <a href="tascalacarambola.com/en/blog/">click here</a>.</p>
-</body>
-</html>
+<!doctype html><html><head><title>tascalacarambola.com/en/blog/</title><link rel=canonical href=tascalacarambola.com/en/blog/><meta name=robots content="noindex"><meta charset=utf-8><noscript><meta http-equiv=refresh content="0; url=tascalacarambola.com/en/blog/"></noscript><script>;(function(){if(window.location.pathname!=='/'){window.location.replace('tascalacarambola.com\/en\/blog\/')
+return}
+var getFirstBrowserLanguage=function(){var nav=window.navigator,browserLanguagePropertyKeys=['language','browserLanguage','systemLanguage','userLanguage'],i,language
+if(Array.isArray(nav.languages)){for(i=0;i<nav.languages.length;i++){language=nav.languages[i]
+if(language&&language.length){return language}}}
+for(i=0;i<browserLanguagePropertyKeys.length;i++){language=nav[browserLanguagePropertyKeys[i]]
+if(language&&language.length){return language}}
+return 'en'}
+var preferLang=getFirstBrowserLanguage()
+if(window.location.pathname=='/'){if(preferLang.indexOf('en')!==-1){window.location.replace('/en')}else if(preferLang.indexOf('de')!==-1){window.location.replace('/de')}else{window.location.replace('/es')}}})()</script></head><body><h1>Rerouting</h1><p>You should be rerouted in a jiff, if not, <a href=tascalacarambola.com/en/blog/>click here</a>.</p></body></html>

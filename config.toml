@@ -39,14 +39,10 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
   
-  horarioEN = "Due to COVID-19 Pandemic, current working hours are Monday to Friday from 6pm to 11pm"
-  horarioES = "Debido a la pandemia de COVID-19, nuestro horario es de lunes a viernes de 6 a 11pm"
-  horarioDE = "Aufgrund der COVID-19-Pandemie sind die aktuellen Arbeitszeiten von Montag bis Freitag von 18 bis 23 Uhr"
-
-  LogoBlack = "/images/logo_black.png"
-  LogoWhite = "/images/logo_white.png"
-
-
+  horarioEN = "Due to COVID-19 Pandemic, working hours are restricted from Monday to Friday from 6pm to 11pm"
+  horarioES = "Debido a la pandemia de COVID-19, nuestro horario está restringido de lunes a viernes de 6 pm a 11 pm"
+  horarioDE = "Aufgrund der COVID-19-Pandemie sind die Arbeitszeiten von Montag bis Freitag von 18 bis 23 Uhr beschränkt"
+  
 [taxonomies]
     category = "blog"
     tag      = "tags"

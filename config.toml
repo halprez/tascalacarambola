@@ -16,9 +16,6 @@ publishDir = "docs"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Subtitle for home
-  #homeSubtitle = ""
-
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -42,6 +39,10 @@ publishDir = "docs"
   horarioEN = "Due to COVID-19 Pandemic, working hours are restricted from Monday to Friday from 6pm to 11pm"
   horarioES = "Debido a la pandemia de COVID-19, nuestro horario está restringido de lunes a viernes de 6 pm a 11 pm"
   horarioDE = "Aufgrund der COVID-19-Pandemie sind die Arbeitszeiten von Montag bis Freitag von 18 bis 23 Uhr beschränkt"
+
+  horarioCocinaEN = "Kitchen closes at 10pm"
+  horarioCocinaES = "La cocina cierra a las 10pm"
+  horarioCocinaDE = "Die Küche schließt um 22 Uhr"
   
 [taxonomies]
     category = "blog"
@@ -51,9 +52,9 @@ publishDir = "docs"
 [params.logo]
       logoText = "@"
       logoHomeLink = "/"
-      logoTextDE = "Homepage"
-      logoTextES = "Inicio"
-      logoTextEN = "Home"
+      logoTextDE = "La Carambola"
+      logoTextES = "La Carambola"
+      logoTextEN = "La Carambola"
 
 [[params.social]]
     name = "phone"
@@ -78,15 +79,12 @@ publishDir = "docs"
 #     name = "telegram"
 #     url = "https://t.me/+34663822594"
 
-
-
 [permalinks]
    posts = "/:year/:month/:title/"
 
 [languages]
   [languages.en]
     keywords = ""
-    readOtherPosts = "Read other posts"
     languagename = "English"
     languageCode = "en-UK"
     

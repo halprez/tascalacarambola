@@ -1,11 +1,11 @@
 ---
 title: "Speisekarte"
 draft: false
-aliases: [/menu/]
+aliases: [/menu]
 ---
 
 <details open>
-<summary>Essen</summary>
+<summary>Tapas</summary>
 
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
@@ -68,10 +68,10 @@ aliases: [/menu/]
 | 36 | Süßkartoffel mit Kabeljau und Mojo | 4€/u|
 | 37 | Fleischklößchen | 7€, 14€|
 | 38 | Kanarischer Rindfleischeintopf | 8€, 12€|
-| 39 | Panierte gehackte Hühnerbrust | 8€, 11€|
-| 40 | Knoblauch gehackte Hühnerbrust | 8€, 11€|
+| 39 | Panierte gehackte Hähnchen | 8€, 11€|
+| 40 | Knoblauch gehackte Hähnchen | 8€, 11€|
 | 41 | Knoblauch gebratenes Kaninchen | 8€, 11€|
-| 42 | Kartoffelstreusel mit Mojo | 4€, 6€|
+| 42 | Runzlige kartoffeln mit Mojo | 4€, 6€|
 
 </details>
 

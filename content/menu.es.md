@@ -1,7 +1,7 @@
 ---
-title: "Nuestra carta"
+title: "Menú"
 draft: false
-aliases: [/menu/]
+aliases: [/menu]
 ---
 
 <details open>

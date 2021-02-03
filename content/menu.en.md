@@ -80,27 +80,41 @@ aliases: [/menu]
 
 ## Wines
 
+<center>Red wines</center>
+
 | # | Product | Price |
 |---|:---|---:|
 | 50 | House red wine  | 1/4 2€, 1/2 4€|
-| 51 | House dry white wine  | 1/4 2€, 1/2 4€|
-| 52 | House fruity white wine | 1/4 2€, 1/2 4€|
+| 51 | Mocanero  | 13€|
+| 52 | Presas Ocampo  | 13€|
+| 53 | Presas Ocampo Barrica  | 15€|
+| 54 | El Monje Tradicional  | 14€|
+| 55 | El Monje Hollera  | 14€|
+
+<center>White wines</center>
+
+| # | Product | Price |
+|---|:---|---:|
+| 60 | House dry white wine  | 1/4 2€, 1/2 4€|
+| 61 | House fruity white wine | 1/4 2€, 1/2 4€|
+| 62 | Brumas de Ayoza Afrutado | 16€|
+| 63 | Brumas de Ayoza Seco | 16€|
 
 ## Beers
 
 |   | Product | Price |
 |---|---|---:|
-| 53 | Draft beer |  caña 1€, pint 2€|
-| 54 | Dorada pilsen or especial  | 1.50€|
-| 55 | Dorada sin or Tropical limón | 1.50€|
+| 70 | Draft beer |  caña 1€, pint 2€|
+| 71 | Dorada pilsen or especial  | 1.50€|
+| 72 | Dorada sin or Tropical limón | 1.50€|
 
 ## Other drinks
 
 |   | Product | Price |
 |---|:---|---:|
-| 60 | Water |  1/2l 1€, 1l 2€|
-| 61 | Sparkling water |  1/2l 1€, 1l 2€|
-| 62 | Sodas |  1.50€|
+| 80 | Water |  1/2l 1€, 1l 2€|
+| 81 | Sparkling water |  1/2l 1.20€|
+| 82 | Sodas |  1.50€|
 
 </details>
 
@@ -109,11 +123,11 @@ aliases: [/menu]
 
 | # | Product | Price |
 |---|:---|---:|
-| 70 | Homemade Flans |  3.50€|
-| 71 | Homemade Pies |  4€|
-| 72 | Teas, coffee|  1€|
-| 73 | Cortados |  1.20€|
-| 74 | Milky coffee |  1.50€|
+| 90 | Homemade Flans |  3.50€|
+| 91 | Homemade Pies |  4€|
+| 92 | Teas, coffee|  1€|
+| 93 | Cortados |  1.20€|
+| 94 | Milky coffee |  1.50€|
 
 </details>
 

@@ -80,27 +80,41 @@ aliases: [/menu]
 
 ## Vinos
 
+<center>Tintos</center>
+
 | # | Producto | Precio |
 | --- | ---|---:|
-| 50 | Vino tinto a granel  | 1/4 3€, 1/2 6€|
-| 51 | Vino blanco seco a granel  | 1/4 3€, 1/2 6€|
-| 52 | Vino blanco afrutado a granel | 1/4 3€, 1/2 6€|
+| 50 | Vino tinto a granel  | 1/4 2€, 1/2 4€|
+| 51 | Mocanero  | 13€|
+| 52 | Presas Ocampo  | 13€|
+| 53 | Presas Ocampo Barrica  | 15€|
+| 54 | El Monje Tradicional  | 14€|
+| 55 | El Monje Hollera  | 14€|
+
+<center>Blancos</center>
+
+| # | Producto | Precio |
+| --- | ---|---:|
+| 60 | Vino blanco seco a granel  | 1/4 2€, 1/2 4€|
+| 61 | Vino blanco afrutado a granel | 1/4 2€, 1/2 4€|
+| 62 | Brumas de Ayoza Afrutado | 16€|
+| 63 | Brumas de Ayoza Seco | 16€|
 
 ## Cervezas
 
 | # | Producto | Precio |
 |---|---|---:|
-| 53 | De grifo |  caña 1€, jarra 2€|
-| 54 | Dorada pilsen o especial  | 1.50€|
-| 55 | Dorada sin o Tropical limón | 1.50€|
+| 70 | De grifo |  caña 1€, jarra 2€|
+| 71 | Dorada pilsen o especial  | 1.50€|
+| 72 | Dorada sin o Tropical limón | 1.50€|
 
 ## Otras bebidas
 
 | # | Producto | Precio |
 |---|:---|---:|
-| 60 | Agua |  1/2l 1€, 1l 2€|
-| 61 | Agua con gas |  1/2l 1€, 1l 2€|
-| 62 | Refrescos |  1.50€|
+| 80 | Agua |  1/2l 1€, 1l 2€|
+| 81 | Agua con gas |  1/2l 1.20€|
+| 82 | Refrescos |  1.50€|
 
 </details>
 
@@ -109,11 +123,11 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|:---|---:|
-| 70 | Flanes caseros|  3.50€|
-| 71 | Tartas caseras|  4€|
-| 72 | Café solo o infusiones|  1€|
-| 73 | Cortados |  1.20€|
-| 74 | Café con leche |  1.50€|
+| 90 | Flanes caseros|  3.50€|
+| 91 | Tartas caseras|  4€|
+| 92 | Café solo o infusiones|  1€|
+| 93 | Cortados |  1.20€|
+| 94 | Café con leche |  1.50€|
 
 </details>
 

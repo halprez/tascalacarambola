@@ -80,27 +80,41 @@ aliases: [/menu]
 
 ## Weine
 
+<center>Rotweine</center>
+
 | # | Produkt | Preis |
 |---|:---|---:|
 | 50 | Hausrotwein | 1/4 2€, 1/2 4€|
-| 51 | Haus trockener Weißwein  | 1/4 2€, 1/2 4€|
-| 52 | Hausfruchtiger Weißwein | 1/4 2€, 1/2 4€|
+| 51 | Mocanero  | 13€|
+| 52 | Presas Ocampo  | 13€|
+| 53 | Presas Ocampo Barrica  | 15€|
+| 54 | El Monje Tradicional  | 14€|
+| 55 | El Monje Hollera  | 14€|
+
+<center>Weißweine</center>
+
+| # | Produkt | Preis |
+|---|:---|---:|
+| 60 | Haus trockener Weißwein  | 1/4 2€, 1/2 4€|
+| 61 | Hausfruchtiger Weißwein | 1/4 2€, 1/2 4€|
+| 62 | Brumas de Ayoza Afrutado | 16€|
+| 63 | Brumas de Ayoza Seco | 16€|
 
 ## Biere
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 53 | Fassbier |  caña 1€, pint 2€|
-| 54 | Dorada pilsen or especial  | 1.50€|
-| 55 | Dorada sin or Tropical limón | 1.50€|
+| 70 | Fassbier |  caña 1€, pint 2€|
+| 71 | Dorada pilsen or especial  | 1.50€|
+| 72 | Dorada sin or Tropical limón | 1.50€|
 
 ## Andere Getränke
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 60 | Wasser |  1/2l 1€, 1l 2€|
-| 61 | Sprudel wasser|  1/2l 1€, 1l 2€|
-| 62 | Sprudels |  1.50€|
+| 80 | Wasser |  1/2l 1€, 1l 2€|
+| 81 | Sprudel wasser|  1/2l 1.20€|
+| 82 | Sprudels |  1.50€|
 
 </details>
 
@@ -109,11 +123,11 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 70 | Hausgemachte Flans |  3.50€|
-| 71 | Homemade Pies |  4€|
-| 72 | Teas, coffee|  1€|
-| 73 | Cortados |  1.20€|
-| 74 | Milky coffee |  1.50€|
+| 90 | Hausgemachte Flans |  3.50€|
+| 91 | Homemade Pies |  4€|
+| 92 | Teas, coffee|  1€|
+| 93 | Cortados |  1.20€|
+| 94 | Milky coffee |  1.50€|
 
 </details>
 

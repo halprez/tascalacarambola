@@ -43,7 +43,7 @@ publishDir = "docs"
   horarioCocinaEN = "Kitchen closes at 10pm"
   horarioCocinaES = "La cocina cierra a las 10pm"
   horarioCocinaDE = "Die Küche schließt um 22 Uhr"
-  
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -106,7 +106,7 @@ publishDir = "docs"
     languageCode = "es-ES"
 
   [[languages.es.menu.main]]
-    name = "Carta"
+    name = "Menú"
     url = "menu/"
     weight = 10
 

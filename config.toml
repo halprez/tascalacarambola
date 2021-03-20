@@ -36,9 +36,9 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
   
-  horarioEN = "Due to COVID-19 Pandemic, working hours are restricted from Monday to Friday from 6pm to 11pm"
-  horarioES = "Debido a la pandemia de COVID-19, nuestro horario está restringido de lunes a viernes de 6 pm a 11 pm"
-  horarioDE = "Aufgrund der COVID-19-Pandemie sind die Arbeitszeiten von Montag bis Freitag von 18 bis 23 Uhr beschränkt"
+  horarioEN = "Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed"
+  horarioES = "Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"
+  horarioDE = "Aufgrund der neuesten Anti-COVID-19-Gegenmessungen ist der Verpflegungsservice in Innenräumen nicht gestattet"
 
   horarioCocinaEN = "Kitchen closes at 10pm"
   horarioCocinaES = "La cocina cierra a las 10pm"

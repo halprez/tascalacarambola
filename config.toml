@@ -36,13 +36,13 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
   
-  horarioEN = "Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed"
+  horarioEN = "Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed."
   horarioES = "Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"
   horarioDE = "Aufgrund der neuesten Anti-COVID-19-Gegenmessungen ist der Verpflegungsservice in Innenräumen nicht gestattet"
 
-  horarioCocinaEN = "Kitchen closes at 10pm"
-  horarioCocinaES = "La cocina cierra a las 10pm"
-  horarioCocinaDE = "Die Küche schließt um 22 Uhr"
+  horarioCocinaEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10pm"
+  horarioCocinaES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10pm"
+  horarioCocinaDE = "Öffnungszeiten: Mo-Fr von 18 bis 23 Uhr. Die Küche schließt um 22 Uhr. Die Küche schließt um 22 Uhr"
 
 [taxonomies]
     category = "blog"
@@ -70,6 +70,11 @@ publishDir = "docs"
     name = "email"
     url = "mailto:tascalacarambola@gmail.com"
     weight = 20
+
+# [[params.social]]
+#     name = "cart"
+#     url = "https://www.foodbooking.com/ordering/?restaurant_uid=a4fc35d6-b140-42eb-bfec-41e51f50483d&glfa_cid=743883251.1616267784&glfa_t=1616439619448&_sp=da24acea-dd0f-4467-9392-e5d59ca7a508.1616439619448"
+#     weight = 20
 
 # [[params.social]]
 #     name = "whatsapp"

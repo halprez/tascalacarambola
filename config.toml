@@ -37,10 +37,12 @@ publishDir = "docs"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
   
   # BannerEN = "Warning! Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed"
-  BannerES = "Atención! Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"
+  # BannerES = "Atención! Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"
   # BannerDE = "Achtung! Aufgrund der neuesten Anti-COVID-19-Gegenmessungen ist der Verpflegungsservice in Innenräumen nicht gestattet"
   BannerDE = ""
+  BannerES = ""
   BannerEN = ""
+
   horarioEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10pm"
   horarioES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10pm"
   horarioDE = "Öffnungszeiten: Mo-Fr von 18 bis 23 Uhr. Die Küche schließt um 22 Uhr. Die Küche schließt um 22 Uhr"

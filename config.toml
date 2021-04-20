@@ -10,6 +10,13 @@ disableLanguageSwitchingButton = true
 SiteLocationURL = "https://tascalacarambola.com"
 publishDir = "docs"
 
+[markup]
+# defaultMarkdownHandler = "blackfriday"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"

@@ -8,7 +8,7 @@ aliases: [/menu]
 <summary>Tapas</summary>
 
 | # | Plato | 1/2 ración, 1 ración |
-|---|:---|---:|
+| --- | :--- | ---: |
 | 1 | Quesos canarios | 6.50€, 9€|
 | 2 | Jamón Serrano | 6.50€, 9€|
 | 3 | Pata asada | 6.50€, 9€|

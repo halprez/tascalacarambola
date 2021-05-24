@@ -12,8 +12,8 @@ En cumplimiento de lo dispuesto en el artículo 13 del RGPD te informamos de lo 
 
 ###### Responsable
 
-C4R4MB0L Restauración 
-CIF: XXXXXXX
+C4R4MB0L Restauración SLU
+CIF: B42821363
 Dirección: Calle Las Macetas, 8 38360, El Sauzal, Tenerife. España
 Teléfono de contacto: (+34) 922 570 891
 Email de contacto: tascalacarambola@gmail.com

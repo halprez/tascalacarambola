@@ -9,8 +9,7 @@ aliases: [/menu]
 
 | # | Dish | 1/2 serving, 1 serving |
 |---|:---|---:|
-| 1 | Canarian Cheese | 6.50€, 9€|
-| 2 | Serrano Ham | 6.50€, 9€|
+| 1 | Assorted Canarian Cheese | 6.50€, 9€| 
 | 3 | Canarian roasted pork | 6.50€, 9€|
 | 4 | Cured sausage | 6.50€, 9€|
 | 5 | Dates with bacon | 4€, 8€|
@@ -21,7 +20,7 @@ aliases: [/menu]
 | 10 | Garlic button-mudhrooms or mushrooms | 8€, 10€|
 | 11 | Garlic prawns | 9€, 12€|
 | 12 | Breaded mushrooms | 8€, 10€|
-| 13 | Carambola's potatoes| 6€, 8€|
+| 13 | Carambola's potatoes <div class="tooltip">*<div class="tooltiptext">Grilled potatoes with spicy tomato sauce, bechamel & cheese</div></div>| 6€, 8€|
 | 14 | Shredded beef dumplings | 1.50€/u|
 
 </details>

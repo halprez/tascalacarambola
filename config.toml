@@ -114,12 +114,6 @@ publishDir = "docs"
     url = "https://reservas.tascalacarambola.com"
     weight = 20
 
-  [[languages.en.menu.main]]
-    name = "Play"
-    url = "game/"
-    weight = 30
-
-
   [languages.es]
     keywords = ""
     readOtherPosts = "Read other posts"

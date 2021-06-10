@@ -66,10 +66,15 @@ publishDir = "docs"
       logoTextES = "La Carambola"
       logoTextEN = "La Carambola"
 
+[[params.social]]     
+    name = "whatsapp"
+    url = "https://wa.me/+34607385947"
+    weight = 10
+
 [[params.social]]
     name = "phone"
     url = "tel:+34922570891"
-    weight = 10
+    weight = 20
 
 [[params.social]]
     name = "instagram"
@@ -79,25 +84,18 @@ publishDir = "docs"
 [[params.social]]
     name = "email"
     url = "mailto:tascalacarambola@gmail.com"
-    weight = 20
+    weight = 40
 
 # [[params.social]]
 #     name = "cart"
 #     url = "https://www.foodbooking.com/ordering/?restaurant_uid=a4fc35d6-b140-42eb-bfec-41e51f50483d&glfa_cid=743883251.1616267784&glfa_t=1616439619448&_sp=da24acea-dd0f-4467-9392-e5d59ca7a508.1616439619448"
 #     weight = 20
 
-# [[params.social]]
-#     name = "whatsapp"
-#     url = "https://wa.me/+34663822594"
-
-# [[params.social]]     
-#     name = "telegram"
-#     url = "https://t.me/+34663822594"
-
 [permalinks]
    posts = "/:year/:month/:title/"
 
 [languages]
+############ ENGLISH ################
   [languages.en]
     keywords = ""
     languagename = "English"
@@ -114,6 +112,8 @@ publishDir = "docs"
     url = "https://reservas.tascalacarambola.com"
     weight = 20
 
+############ SPANISH ################
+
   [languages.es]
     keywords = ""
     readOtherPosts = "Read other posts"
@@ -129,6 +129,7 @@ publishDir = "docs"
     name = "Reservas"
     url = "https://reservas.tascalacarambola.com"
     weight = 20
+
 
   [languages.de]
     keywords = ""

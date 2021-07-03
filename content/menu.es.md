@@ -104,9 +104,13 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|---|---:|
-| 70 | De grifo |  caña 1€, jarra 2€|
+| 70 | De grifo |  Estrella Galicia 1.20€, 1906 3€|
 | 71 | Dorada pilsen o especial  | 1.50€|
 | 72 | Dorada sin o Tropical limón | 1.50€|
+| 73 | Dorada especial roja o Tropical 1924 | 2€|
+| 74 | 1906 Especial o Red Vintage | 3€|
+| 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
+| 76 | Brewdog Punk IPA o Erdinger Dunkel | 3.50€|
 
 ## Otras bebidas
 

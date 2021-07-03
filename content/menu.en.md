@@ -103,7 +103,7 @@ aliases: [/menu]
 
 |   | Product | Price |
 |---|---|---:|
-| 70 | Draft beer |  caña 1€, pint 2€|
+| 70 | Draft beer |  caña 1€, 1906 2€|
 | 71 | Dorada pilsen o especial  | 1.50€|
 | 72 | Dorada sin o Tropical limón | 1.50€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|

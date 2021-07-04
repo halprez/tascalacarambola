@@ -9,19 +9,19 @@ aliases: [/menu]
 
 | # | Plato | 1/2 ración, 1 ración |
 | --- | :--- | ---: |
-| 1 | Quesos canarios | 6.50€, 9€|
-| 2 | Jamón Serrano | 6.50€, 9€|
+| 1 | Quesos canarios | 7€, 9.50€|
+| 2 | Jamón Serrano | 7€, 9.50€|
 | 3 | Pata asada | 6.50€, 9€|
 | 4 | Embutidos | 6.50€, 9€|
-| 5 | Dátiles con bacon | 4€, 8€|
-| 6 | Pimientos de padrón | 5€, 7€|
-| 7 | Queso asado | 4€, 8€|
-| 8 | Croquetas variadas | 6€, 12€|
-| 9 | Pulpos a la vinagreta | 10€, 14€|
-| 10 | Setas o champiñones al ajillo | 8€, 10€|
-| 11 | Gambas al ajillo | 9€, 12€|
-| 12 | Champiñones empanados | 8€, 10€|
-| 13 | Papas Carambola | 6€, 8€|
+| 5 | Dátiles con bacon | 4.50€, 9€|
+| 6 | Pimientos de padrón | 5.50€, 7.50€|
+| 7 | Queso asado | 4.50€, 9€|
+| 8 | Croquetas variadas | 7€, 14€|
+| 9 | Pulpos a la vinagreta | 10€, 15€|
+| 10 | Setas o champiñones al ajillo | 8.50€, 10.50€|
+| 11 | Gambas al ajillo | 9.50€, 13€|
+| 12 | Champiñones empanados | 8.50€, 10.50€|
+| 13 | Papas Carambola | 5€, 8€|
 | 14 | Empanadas de carne mechada | 1.50€/u|
 
 </details>
@@ -31,9 +31,9 @@ aliases: [/menu]
 
 | # | Plato | 1/2 ración, 1 ración |
 |---|---|---:|
-| 15 | Ensalada de la casa | 8€, 12€|
-| 16 | Ensalada de tomate, cebolla y atún | 7€, 9€|
-| 17 | Ensaladilla | 4€, 7€|
+| 15 | Ensalada de la casa | 8.50€, 13€|
+| 16 | Ensalada de tomate, cebolla y atún | 7.50€, 9.50€|
+| 17 | Ensaladilla | 4€, 7.50€|
 
 </details>
 
@@ -45,11 +45,11 @@ aliases: [/menu]
 | 20 | Revuelto de la casa | 7€, 9€|
 | 21 | Revuelto de setas | 8€, 11€|
 | 22 | Revuelto de setas y gambas | 9€, 12€|
-| 23 | Tortilla canaria | 6€, 8€|
+| 23 | Tortilla canaria | 7€, 9€|
 | 24 | Tortilla de ajos | 5€|
 | 25 | Tortilla española | 5€, 7€|
 | 26 | Tortilla de embutidos | 6€, 8€|
-| 27 | Tortilla de bacalao | 6€, 8€|
+| 27 | Tortilla de bacalao | 7€, 9€|
 | 28 | Tortilla rellena de carne | 5€, 7€|
 
 </details>
@@ -59,18 +59,18 @@ aliases: [/menu]
 
 | # | Plato | 1/2 ración, 1 ración |
 |---|:---|---:|
-| 30 | Bubango relleno de atún o carne | 8€/u|
-| 31 | Pimiento relleno de atún o carne | 8€/u|
-| 32 | Moussaka | 8€/u|
+| 30 | Bubango relleno de atún o carne | 8.50€/u|
+| 31 | Pimiento relleno de atún o carne | 8.50€/u|
+| 32 | Moussaka | 8.50€/u|
 | 33 | Solomillo troceado al ajillo| 10€, 14€|
-| 34 | Solomillo troceado a la Cocacola| 10€, 14€|
-| 35 | Solomillo troceado con gambas| 11€, 15€|
-| 36 | Montadito de bacalao | 4€/u|
+| 34 | Solomillo troceado a la Cocacola| 11€, 15€|
+| 35 | Solomillo troceado con gambas| 12€, 16€|
+| 36 | Montadito de bacalao | 4.50€/u|
 | 37 | Albóndigas | 7€, 14€|
 | 38 | Carne en salsa| 8€, 12€|
 | 39 | Delicias de pollo empanado| 8€, 11€|
 | 40 | Delicias de pollo al ajillo| 8€, 11€|
-| 41 | Conejo frito| 8€, 11€|
+| 41 | Conejo frito| 9€, 14€|
 | 42 | Papas arrugadas con mojo | 4€, 6€|
 
 </details>
@@ -104,7 +104,7 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|---|---:|
-| 70 | De grifo |  Estrella Galicia 1.20€, 1906 3€|
+| 70 | De grifo | caña 1.20€, 1906 3€|
 | 71 | Dorada pilsen o especial  | 1.50€|
 | 72 | Dorada sin o Tropical limón | 1.50€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
@@ -135,4 +135,4 @@ aliases: [/menu]
 
 </details>
 
-IGIC no incluido.
+Impuestos incluidos.

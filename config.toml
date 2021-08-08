@@ -47,9 +47,9 @@ publishDir = "docs"
   #BannerDE = "Vom 2. bis 8. August wegen Feiertagen geschlossen. Entschuldigung für jegliche Unannehmlichkeiten!"
   #BannerES = "Cerrado por vacaciones la semana del 2 al 8 de agosto. Disculpe las molestias!"
 
-  # BannerEN = "Warning! Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed"
-  # BannerES = "Atención! Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"
-  # BannerDE = "Achtung! Aufgrund der neuesten Anti-COVID-19-Gegenmessungen ist der Verpflegungsservice in Innenräumen nicht gestattet"
+  BannerEN = ""
+  BannerES = ""
+  BannerDE = ""
 
   horarioEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10pm"
   horarioES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10pm"

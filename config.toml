@@ -43,9 +43,9 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
 
-  BannerEN = "Closed for holidays from August 2nd to 8th. Sorry for any inconvenience!"
-  BannerDE = "Vom 2. bis 8. August wegen Feiertagen geschlossen. Entschuldigung für jegliche Unannehmlichkeiten!"
-  BannerES = "Cerrado por vacaciones la semana del 2 al 8 de agosto. Disculpe las molestias!"
+  #BannerEN = "Closed for holidays from August 2nd to 8th. Sorry for any inconvenience!"
+  #BannerDE = "Vom 2. bis 8. August wegen Feiertagen geschlossen. Entschuldigung für jegliche Unannehmlichkeiten!"
+  #BannerES = "Cerrado por vacaciones la semana del 2 al 8 de agosto. Disculpe las molestias!"
 
   # BannerEN = "Warning! Due to latest anti-COVID-19 counter-measurements, indoor food service is not allowed"
   # BannerES = "Atención! Debido a las últimas medidas anti-COVID-19, el servicio de comida en interiores no esta permitido"

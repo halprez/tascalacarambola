@@ -43,17 +43,17 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
 
-  #BannerEN = "Closed for holidays from August 2nd to 8th. Sorry for any inconvenience!"
-  #BannerDE = "Vom 2. bis 8. August wegen Feiertagen geschlossen. Entschuldigung für jegliche Unannehmlichkeiten!"
-  #BannerES = "Cerrado por vacaciones la semana del 2 al 8 de agosto. Disculpe las molestias!"
+  BannerEN = "Closed for Xmas holidays from Dec 24th to Jannuary 2nd, and Jannuary 5th and 6th. Merry Xmas!"
+  BannerDE = "Geschlossen wegen Weihnachtsferien vom 24 Dezember bis 2 Januar, und 5 und 6 Januar. Frohe Weihnachten!"
+  BannerES = "Cerrado por vacaciones de Navidad del 24 de diciembre al 2 de enero, así como 5 y 6 de enero. ¡Feliz Navidad!"
 
-  BannerEN = ""
-  BannerES = ""
-  BannerDE = ""
+  #BannerEN = ""
+  #BannerES = ""
+  #BannerDE = ""
 
-  horarioEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10pm"
-  horarioES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10pm"
-  horarioDE = "Öffnungszeiten: Mo-Fr von 18 bis 23 Uhr. Die Küche schließt um 22 Uhr. Die Küche schließt um 22 Uhr"
+  horarioEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10:30pm"
+  horarioES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10:30pm"
+  horarioDE = "Öffnungszeiten: Mo-Fr von 18 bis 23 Uhr. Die Küche schließt um 22:30 Uhr. Die Küche schließt um 22 Uhr"
 
 [taxonomies]
     category = "blog"

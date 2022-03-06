@@ -44,13 +44,13 @@ aliases: [/menu]
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
 | 20 | Haus Rührei | 9€|
-| 22 | Garnelen und Pilze Rührei | 11€|
-| 23 | Kanarisches Omelett | 8€, 11€|
-| 24 | Knoblauchomelett | 5€|
-| 25 | Spanisches Omlett | 5€, 7€|
-| 26 | Wurstomelett| 6€, 8€|
-| 27 | Kabeljau-Omelett| 7€, 9€|
-| 28 | Mit Fleisch gefülltes Omelett | 7€|
+| 21 | Garnelen und Pilze Rührei | 11€|
+| 22 | Kanarisches Omelett | 8€, 11€|
+| 23 | Knoblauchomelett | 5€|
+| 24 | Spanisches Omlett | 5€, 7€|
+| 25 | Wurstomelett| 6€, 8€|
+| 26 | Kabeljau-Omelett| 8€, 11€|
+| 27 | Mit Fleisch gefülltes Omelett | 7€|
 
 </details>
 

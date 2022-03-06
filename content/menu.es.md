@@ -49,7 +49,7 @@ aliases: [/menu]
 | 23 | Tortilla de ajo | 5€|
 | 24 | Tortilla española | 5€, 7€|
 | 25 | Tortilla de embutidos | 6€, 8€|
-| 26 | Tortilla de bacalao | 7€, 9€|
+| 26 | Tortilla de bacalao | 8€, 11€|
 | 27 | Tortilla rellena de carne | 7€|
 
 </details>

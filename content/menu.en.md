@@ -49,7 +49,7 @@ aliases: [/menu]
 | 23 | Garlic omelette | 5€|
 | 24 | Spanish omelette | 5€, 7€|
 | 25 | Cured sausages omelette | 6€, 8€|
-| 26 | Cod omelette | 7€, 9€|
+| 26 | Cod omelette | 8€, 11€|
 | 27 | Meat stuffed omelette | 7€|
 
 </details>

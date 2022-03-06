@@ -9,20 +9,22 @@ aliases: [/menu]
 
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
-| 1 | Kanarischen Käsesorten | 7€, 9.50€|
-| 2 | Serrano-Schinken | 7€, 9.50€|
-| 3 | Kanarische gebratene Schweinshaxe | 6.50€, 9€|
-| 4 | Kalter gemischter Aufschnitt | 6.50€, 9€|
-| 5 | Datteln mit Speck | 4.50€, 9€|
-| 6 | Padron paprika | 5.50€, 7.50€|
-| 7 | Gegrillter Käse | 4€, 8€|
-| 8 | Verschiedene Kroketten | 7€, 14€|
-| 9 | Tintenfisch in Vinaigrette | 10€, 15€|
-| 10 | Pilze oder Champignons mit Knoblauch | 8.50€, 10.50€|
-| 11 | Knoblauchgarnelen | 9.50€, 13€|
-| 12 | Panierte Pilze | 8.50€, 10.50€|
-| 13 | Carambolas Kartoffeln| 5€, 8€|
-| 14 | Geschredderte Rindfleischknödel | 1.50€/u|
+| 1 | Kanarischen Käsesorten | 7€, 10€|
+| 2 | Kanarische gebratene Schweinshaxe | 7€, 10€|
+| 3 | Datteln mit Speck | 5€, 9€|
+| 4 | Padron paprika | 6€, 8€|
+| 5 | Gegrillter Käse | 5€, 9€|
+| 6 | Verschiedene Kroketten | 8€, 16€|
+| 7 | Pilze oder Champignons mit Knoblauch | 10€|
+| 8 | Knoblauchgarnelen | 10€, 14€|
+| 9 | Panierte Pilze | 9€, 12€|
+| 10 | Gefüllte mit Almogrote Pilze | 4€, 8€|
+| 11 | Carambolas Kartoffeln| 5€, 8€|
+| 12 | Geschredderte Rindfleischknödel | 2€/u|
+| 13 | Süßkartoffel mit Kabeljau und Mojo montadito | 5€/u|
+| 14 | Geräucherte Sardine montadito | 4.50€/u|
+| 15 | Runzlige kartoffeln mit Mojo | 4€, 6€|
+
 
 </details>
 
@@ -31,9 +33,8 @@ aliases: [/menu]
 
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
-| 15 | Salat des Hauses | 8.50€, 13€|
-| 16 | Tomaten-Zwiebel-Thunfisch-Salat | 7.50€, 9.50€|
-| 17 | Kartoffelsalat | 4€, 7.50€|
+| 17 | Salat des Hauses | 8.50€, 13€|
+| 18 | Tomaten, Sardellen und Avocado salat | 10€€|
 
 </details>
 
@@ -42,15 +43,14 @@ aliases: [/menu]
 
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
-| 20 | Haus Rührei | 7€, 9€|
-| 21 | Pilze Rührei | 8€, 11€|
-| 22 | Garnelen und Pilze Rührei | 9€, 12€|
-| 23 | Kanarisches Omelett | 7€, 9€|
+| 20 | Haus Rührei | 9€|
+| 22 | Garnelen und Pilze Rührei | 11€|
+| 23 | Kanarisches Omelett | 8€, 11€|
 | 24 | Knoblauchomelett | 5€|
 | 25 | Spanisches Omlett | 5€, 7€|
 | 26 | Wurstomelett| 6€, 8€|
 | 27 | Kabeljau-Omelett| 7€, 9€|
-| 28 | Mit Fleisch gefülltes Omelett | 5€, 7€|
+| 28 | Mit Fleisch gefülltes Omelett | 7€|
 
 </details>
 
@@ -62,16 +62,14 @@ aliases: [/menu]
 | 30 | Mit Fleisch oder Thunfisch gefüllte Zucchini |  8.50€/u|
 | 31 | Mit Fleisch oder Thunfisch gefüllter Pfeffer |  8.50€/u|
 | 32 | Moussaka |  8.50€/u|
-| 33 | Knoblauch gehacktes Rinderfilet | 10€, 14€|
-| 34 | Gehacktes Rinderfilet mit Cocacola | 11€, 15€|
-| 35 | Gehacktes Rinderfilet mit Garnelen | 12€, 16€|
-| 36 | Süßkartoffel mit Kabeljau und Mojo | 4.50€/u|
-| 37 | Fleischklößchen | 7€, 14€|
-| 38 | Kanarischer Rindfleischeintopf | 8€, 12€|
-| 39 | Panierte gehackte Hähnchen | 8€, 11€|
-| 40 | Knoblauch gehackte Hähnchen | 8€, 11€|
-| 41 | Knoblauch gebratenes Kaninchen | 9€, 14€|
-| 42 | Runzlige kartoffeln mit Mojo | 4€, 6€|
+| 33 | Knoblauch gehacktes Rinderfilet | 12€, 15€|
+| 34 | Gehacktes Rinderfilet mit Cocacola | 13€, 16€|
+| 35 | Gehacktes Rinderfilet mit Garnelen | 14€, 17€|
+| 36 | Fleischklößchen | 7€, 14€|
+| 37 | Kanarischer Rindfleischeintopf | 8€, 12€|
+| 38 | Panierte gehackte Hähnchen | 8€, 11€|
+| 39 | Knoblauch gehackte Hähnchen | 8€, 11€|
+| 40 | Knoblauch gebratenes Kaninchen | 10€|
 
 </details>
 
@@ -84,9 +82,9 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 50 | Hausrotwein | 1/4 2€, 1/2 4€|
-| 51 | Mocanero  | 13€|
-| 52 | Presas Ocampo  | 13€|
+| 50 | Hausrotwein | 1/4 2.50€, 1/2 5€|
+| 51 | Mocanero  | 14€|
+| 52 | Presas Ocampo  | 14€|
 | 53 | Presas Ocampo Barrica  | 15€|
 | 54 | El Monje Tradicional  | 14€|
 | 55 | El Monje Hollera  | 14€|
@@ -95,8 +93,8 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 60 | Haus trockener Weißwein  | 1/4 2€, 1/2 4€|
-| 61 | Hausfruchtiger Weißwein | 1/4 2€, 1/2 4€|
+| 60 | Haus trockener Weißwein  | 1/4 2.50€, 1/2 5€|
+| 61 | Hausfruchtiger Weißwein | 1/4 2.50€, 1/2 5€|
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
 
@@ -104,19 +102,20 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 70 | Fassbier |  caña 1.20€, 1906 3€|
+| 70 | Fassbier |  caña 1.50€, 1906 3.50€|
 | 71 | Dorada pilsen o especial  | 1.50€|
 | 72 | Dorada sin o Tropical limón | 1.50€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
 | 76 | Brewdog Punk IPA o Erdinger Dunkel | 3.50€|
+| 77 | Estrella de galicia 0,0 | 3.50€|
 
 ## Andere Getränke
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 80 | Wasser |  1/2l 1€, 1l 2€|
+| 80 | Wasser |  1/2l 1.20€, 1l 2€|
 | 81 | Sprudel wasser|  1/2l 1.20€|
 | 82 | Sprudels |  1.50€|
 
@@ -127,11 +126,11 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 90 | Hausgemachte Flans |  3.50€|
-| 91 | Homemade Pies |  4€|
-| 92 | Teas, coffee|  1€|
-| 93 | Cortados |  1.20€|
-| 94 | Milky coffee |  1.50€|
+| 90 | Hausgemachte Flans |  4€|
+| 91 | Homemade Pies |  4.20€|
+| 92 | Teas, coffee|  1.20€|
+| 93 | Cortados |  1.50€|
+| 94 | Milky coffee |  2€|
 
 </details>
 

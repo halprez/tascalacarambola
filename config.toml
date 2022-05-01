@@ -52,13 +52,13 @@ publishDir = "docs"
   #BannerDE = "Geschlossen wegen Weihnachtsferien vom 24 Dezember bis 2 Januar, und 5 und 6 Januar. Frohe Weihnachten!"
   #BannerES = "Cerrado por vacaciones de Navidad del 24 de diciembre al 2 de enero, así como 5 y 6 de enero. ¡Feliz Navidad!"
 
-  BannerEN = ""
-  BannerES = ""
-  BannerDE = ""
+  BannerEN = "Warning! We have changed opening hours Thursdays and Fridays!"
+  BannerES = "Atención! Hemos cambiado el horario los jueves y viernes"
+  BannerDE = "Warnung! Wir haben donnerstags und freitags geänderte Öffnungszeiten!"
 
-  horarioEN = "Opening hours: Mon-Fri, from 6pm to 11pm. Kitchen closes at 10:30pm"
-  horarioES = "Horario: De Lun-Vie, de 6pm a 11pm. La cocina cierra a las 10:30pm"
-  horarioDE = "Öffnungszeiten: Mo-Fr von 18 bis 23 Uhr. Die Küche schließt um 22:30 Uhr. Die Küche schließt um 22 Uhr"
+  horarioEN = "Opening hours: Mon-Mie, from 6pm to 11pm. Kitchen closes at 10:30pm. Thu and Fri from 7pm to 12pm. Kitchen closes at 11pm."
+  horarioES = "Horario: De Lun-Mie, de 6pm a 11pm. La cocina cierra a las 10:30pm. Jueves y viernes de 7 a 12. La cocina cierra a las 11pm."
+  horarioDE = "Öffnungszeiten: Mo-Mi, von 18:00 bis 23:00 Uhr. Die Küche schließt um 22:30 Uhr. Do und Fr von 19:00 bis 12:00 Uhr. Die Küche schließt um 23 Uhr"
 
 [taxonomies]
     category = "blog"

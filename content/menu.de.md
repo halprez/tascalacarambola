@@ -83,11 +83,13 @@ aliases: [/menu]
 | # | Produkt | Preis |
 |---|:---|---:|
 | 50 | Hausrotwein | 1/4 2.50€, 1/2 5€|
+| 51 | Finca antigua  | glas 2.50€, 12€|
 | 52 | Presas Ocampo  | 14€|
 | 53 | Presas Ocampo Barrica  | 15€|
 | 56 | Tajinaste tinto  | 14€|
 | 57 | Cantaperdices (Ribera del Duero)  | 17€|
 | 58 | Viernes (Bierzo)  | 17€|
+| 59 | Pergamino Crianza (Rioja)  | 17€|
 
 <center>Weißweine</center>
 
@@ -98,6 +100,8 @@ aliases: [/menu]
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
 | 64 | Tajinaste blanco seco | 16€|
+| 65 | Ari Goitia Rueda Verdejo | glas 2.50€, 11€|
+| 66 | Calius blanco seco| 17€|
 
 ## Biere
 

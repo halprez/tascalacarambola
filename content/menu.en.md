@@ -19,7 +19,7 @@ aliases: [/menu]
 | 8 | Garlic prawns | 10€, 14€|
 | 9 | Breaded mushrooms | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Carambola's potatoes | 5€, 8€|
+| 11 | Carambola's potatoes | 6€|
 | 12 | Shredded beef dumplings | 2€/u|
 | 13 | Sweet potatoe with cod and mojo montadito | 5€/u|
 | 14 | Smoked sardine montadito | 4€/u|
@@ -50,7 +50,6 @@ aliases: [/menu]
 | 24 | Spanish omelette | 5€, 7€|
 | 25 | Cured sausages omelette | 6€, 8€|
 | 26 | Cod omelette | 8€, 11€|
-| 27 | Meat stuffed omelette | 7€|
 
 </details>
 
@@ -67,7 +66,6 @@ aliases: [/menu]
 | 35 | Chopped beef sirloin with prawns | 14€, 17€|
 | 36 | Meatballs | 9€|
 | 37 | Canarian beef stew | 8€, 12€|
-| 38 | Breaded chopped chicken breast | 8€, 11€|
 | 39 | Garlic chopped chicken breast | 8€, 11€|
 | 40 | Garlic fried rabbit| 10€|
 
@@ -84,9 +82,7 @@ aliases: [/menu]
 |---|:---|---:|
 | 50 | House red wine  | 1/4 2.50€, 1/2 5€|
 | 51 | Finca antigua  | glass 2.50€, 12€|
-| 52 | Presas Ocampo  | 14€|
-| 53 | Presas Ocampo Barrica  | 15€|
-| 56 | Tajinaste tinto  | 14€|
+| 56 | Tajinaste tinto  | glass 3€, 14€|
 | 57 | Cantaperdices (Ribera del Duero)  | 17€|
 | 58 | Viernes (Bierzo)  | 17€|
 | 59 | Pergamino Crianza (Rioja)  | 17€|
@@ -99,7 +95,6 @@ aliases: [/menu]
 | 61 | House fruity white wine | 1/4 2.50€, 1/2 5€|
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
-| 64 | Tajinaste blanco seco | 16€|
 | 65 | Ari Goitia Rueda Verdejo | glass 2.50€, 11€|
 | 66 | Calius blanco seco| 17€|
 
@@ -113,7 +108,7 @@ aliases: [/menu]
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Brewdog Punk IPA o Erdinger Dunkel | 3.50€|
+| 76 | Manila IPL | 3€|
 | 77 | Estrella de galicia 0,0 | 3.50€|
 
 ## Other drinks

@@ -19,7 +19,7 @@ aliases: [/menu]
 | 8 | Gambas al ajillo | 10€, 14€|
 | 9 | Champiñones empanados | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Papas Carambola | 5€, 8€|
+| 11 | Papas Carambola | 6€ |
 | 12 | Empanadas de carne mechada | 2.00€/u|
 | 13 | Montadito de bacalao | 5€/u|
 | 14 | Montadito de sardina ahumada | 4€/u|
@@ -50,7 +50,6 @@ aliases: [/menu]
 | 24 | Tortilla española | 5€, 7€|
 | 25 | Tortilla de embutidos | 6€, 8€|
 | 26 | Tortilla de bacalao | 8€, 11€|
-| 27 | Tortilla rellena de carne | 7€|
 
 </details>
 
@@ -67,7 +66,6 @@ aliases: [/menu]
 | 35 | Solomillo troceado con gambas| 14€, 17€|
 | 36 | Albóndigas | 9€|
 | 37 | Carne en salsa| 8€, 12€|
-| 38 | Delicias de pollo empanado| 8€, 11€|
 | 39 | Delicias de pollo al ajillo| 8€, 11€|
 | 40 | Conejo frito| 10€|
 
@@ -84,9 +82,7 @@ aliases: [/menu]
 | --- | ---|---:|
 | 50 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
 | 51 | Finca antigua  | copa 2.50€, 12€|
-| 52 | Presas Ocampo  | 14€|
-| 53 | Presas Ocampo Barrica  | 15€|
-| 56 | Tajinaste tinto  | 14€|
+| 56 | Tajinaste tinto  | copa 3€, 14€|
 | 57 | Cantaperdices (Ribera del Duero)  | 17€|
 | 58 | Viernes (Bierzo)  | 17€|
 | 59 | Pergamino Crianza (Rioja)  | 17€|
@@ -100,7 +96,6 @@ aliases: [/menu]
 | 61 | Vino blanco afrutado a granel | 1/4 2.50€, 1/2 5€|
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
-| 64 | Tajinaste blanco seco | 16€|
 | 65 | Ari Goitia Rueda Verdejo | copa 2.50€, 11€|
 | 66 | Calius blanco seco| 17€|
 
@@ -114,7 +109,7 @@ aliases: [/menu]
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Brewdog Punk IPA o Erdinger Dunkel | 3.50€|
+| 76 | Manila IPL | 3€|
 | 77 | Estrella de galicia 0,0 | 3.50€|
 
 

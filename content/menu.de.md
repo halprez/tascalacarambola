@@ -19,7 +19,7 @@ aliases: [/menu]
 | 8 | Knoblauchgarnelen | 10€, 14€|
 | 9 | Panierte Pilze | 9€, 12€|
 | 10 | Gefüllte mit Almogrote Pilze | 4€, 8€|
-| 11 | Carambolas Kartoffeln| 5€, 8€|
+| 11 | Carambolas Kartoffeln| 6€|
 | 12 | Geschredderte Rindfleischknödel | 2€/u|
 | 13 | Süßkartoffel mit Kabeljau und Mojo montadito | 5€/u|
 | 14 | Geräucherte Sardine montadito | 4.50€/u|
@@ -50,7 +50,6 @@ aliases: [/menu]
 | 24 | Spanisches Omlett | 5€, 7€|
 | 25 | Wurstomelett| 6€, 8€|
 | 26 | Kabeljau-Omelett| 8€, 11€|
-| 27 | Mit Fleisch gefülltes Omelett | 7€|
 
 </details>
 
@@ -67,7 +66,6 @@ aliases: [/menu]
 | 35 | Gehacktes Rinderfilet mit Garnelen | 14€, 17€|
 | 36 | Fleischklößchen | 7€, 14€|
 | 37 | Kanarischer Rindfleischeintopf | 8€, 12€|
-| 38 | Panierte gehackte Hähnchen | 8€, 11€|
 | 39 | Knoblauch gehackte Hähnchen | 8€, 11€|
 | 40 | Knoblauch gebratenes Kaninchen | 10€|
 
@@ -84,9 +82,7 @@ aliases: [/menu]
 |---|:---|---:|
 | 50 | Hausrotwein | 1/4 2.50€, 1/2 5€|
 | 51 | Finca antigua  | glas 2.50€, 12€|
-| 52 | Presas Ocampo  | 14€|
-| 53 | Presas Ocampo Barrica  | 15€|
-| 56 | Tajinaste tinto  | 14€|
+| 56 | Tajinaste tinto  | glas 3€, 14€|
 | 57 | Cantaperdices (Ribera del Duero)  | 17€|
 | 58 | Viernes (Bierzo)  | 17€|
 | 59 | Pergamino Crianza (Rioja)  | 17€|
@@ -99,7 +95,6 @@ aliases: [/menu]
 | 61 | Hausfruchtiger Weißwein | 1/4 2.50€, 1/2 5€|
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
-| 64 | Tajinaste blanco seco | 16€|
 | 65 | Ari Goitia Rueda Verdejo | glas 2.50€, 11€|
 | 66 | Calius blanco seco| 17€|
 
@@ -113,7 +108,7 @@ aliases: [/menu]
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Brewdog Punk IPA o Erdinger Dunkel | 3.50€|
+| 76 | Manila IPL | 3€|
 | 77 | Estrella de galicia 0,0 | 3.50€|
 
 ## Andere Getränke

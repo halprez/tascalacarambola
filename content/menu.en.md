@@ -61,11 +61,11 @@ aliases: [/menu]
 | 30 | Meat or tuna stuffed zucchini | 8.50€/u|
 | 31 | Meat or tuna stuffed pepper | 8.50€/u|
 | 32 | Moussaka | 8.50€/u|
-| 33 | Garlic chopped beef sirloin | 12€, 15€|
-| 34 | Chopped beef sirloin w/ Cocacola | 13€, 16€|
-| 35 | Chopped beef sirloin with prawns | 14€, 17€|
+| 33 | Garlic chopped beef sirloin | 15€, 19€|
+| 34 | Chopped beef sirloin w/ Cocacola | 16€, 21€|
+| 35 | Chopped beef sirloin with prawns | 17€, 23€|
 | 36 | Meatballs | 9€|
-| 37 | Canarian beef stew | 8€, 12€|
+| 37 | Canarian beef stew | 9€, 14€|
 | 39 | Garlic chopped chicken breast | 8€, 11€|
 | 40 | Garlic fried rabbit| 10€|
 

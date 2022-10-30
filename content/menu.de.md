@@ -61,11 +61,11 @@ aliases: [/menu]
 | 30 | Mit Fleisch oder Thunfisch gefüllte Zucchini |  8.50€/u|
 | 31 | Mit Fleisch oder Thunfisch gefüllter Pfeffer |  8.50€/u|
 | 32 | Moussaka |  8.50€/u|
-| 33 | Knoblauch gehacktes Rinderfilet | 12€, 15€|
-| 34 | Gehacktes Rinderfilet mit Cocacola | 13€, 16€|
-| 35 | Gehacktes Rinderfilet mit Garnelen | 14€, 17€|
+| 33 | Knoblauch gehacktes Rinderfilet | 15€, 19€|
+| 34 | Gehacktes Rinderfilet mit Cocacola | 16€, 21€|
+| 35 | Gehacktes Rinderfilet mit Garnelen | 17€, 23€|
 | 36 | Fleischklößchen | 7€, 14€|
-| 37 | Kanarischer Rindfleischeintopf | 8€, 12€|
+| 37 | Kanarischer Rindfleischeintopf | 9€, 14€|
 | 39 | Knoblauch gehackte Hähnchen | 8€, 11€|
 | 40 | Knoblauch gebratenes Kaninchen | 10€|
 

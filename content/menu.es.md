@@ -61,11 +61,11 @@ aliases: [/menu]
 | 30 | Bubango relleno de atún o carne | 8.50€/u|
 | 31 | Pimiento relleno de atún o carne | 8.50€/u|
 | 32 | Moussaka | 8.50€/u|
-| 33 | Solomillo troceado al ajillo| 12€, 15€|
-| 34 | Solomillo troceado a la Cocacola| 13€, 16€|
-| 35 | Solomillo troceado con gambas| 14€, 17€|
+| 33 | Solomillo troceado al ajillo| 15€, 19€|
+| 34 | Solomillo troceado a la Cocacola| 16€, 21€|
+| 35 | Solomillo troceado con gambas| 17€, 23€|
 | 36 | Albóndigas | 9€|
-| 37 | Carne en salsa| 8€, 12€|
+| 37 | Carne en salsa| 9€, 14€|
 | 39 | Delicias de pollo al ajillo| 8€, 11€|
 | 40 | Conejo frito| 10€|
 

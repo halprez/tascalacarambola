@@ -40,7 +40,7 @@ publishDir = "docs"
   images = [""]
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   #bgimg = "/images/pizarra.png"
   homeSubtitle = "Tasca"
   Address = "Calle Las Macetas, 8. El Sauzal, Tenerife, Islas Canarias."
@@ -48,21 +48,20 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
 
-  #BannerEN = "Closed for Xmas holidays from Dec 24th to Jannuary 2nd, and Jannuary 5th and 6th. Merry Xmas!"
-  #BannerDE = "Geschlossen wegen Weihnachtsferien vom 24 Dezember bis 2 Januar, und 5 und 6 Januar. Frohe Weihnachten!"
-  #BannerES = "Cerrado por vacaciones de Navidad del 24 de diciembre al 2 de enero, así como 5 y 6 de enero. ¡Feliz Navidad!"
+  BannerEN = "Closed for Xmas holidays from Jannuary 2nd to Jannuary 6th. Wish you a Happy 2023!"
+  BannerDE = "Wegen Weihnachtsferien vom 2. bis 6. Januar geschlossen. Wünsche dir ein frohes 2023!"
+  BannerES = "Cerrado por vacaciones de Navidad del 2 al 6 de enero. ¡Les deseamos un Feliz 2023!"
 
   #BannerEN = "Closed for holidays from Jun 20th to Jul 1st!"
   #BannerES = "Cerramos por vacaciones del 20 de junio al 1 de julio!"
   #BannerDE = "Feiertage vom 20. Juni bis 1. Juli geschlossen!"
 
-  BannerEN = ""
-  BannerES = ""
-  BannerDE = ""
+  #BannerEN = ""
+  #BannerES = ""
+  #BannerDE = ""
 
-  
 
-  horarioEN = "Opening hours: Mon-Mie, from 6pm to 11pm. Kitchen closes at 10:30pm. Thu and Fri from 7pm to 12pm. Kitchen closes at 11pm."
+  horarioEN = "Opening hours: Mon-Wed, from 6pm to 11pm. Kitchen closes at 10:30pm. Thu and Fri from 7pm to 12pm. Kitchen closes at 11pm."
   horarioES = "Horario: De Lun-Mie, de 6pm a 11pm. La cocina cierra a las 10:30pm. Jueves y viernes de 7 a 12. La cocina cierra a las 11pm."
   horarioDE = "Öffnungszeiten: Mo-Mi, von 18:00 bis 23:00 Uhr. Die Küche schließt um 22:30 Uhr. Do und Fr von 19:00 bis 12:00 Uhr. Die Küche schließt um 23 Uhr"
 

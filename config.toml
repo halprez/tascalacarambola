@@ -48,17 +48,17 @@ publishDir = "docs"
   Email = "tascalacarambola@gmail.com"
   LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
 
-  BannerEN = "Closed for Xmas holidays from Jannuary 2nd to Jannuary 6th. Wish you a Happy 2023!"
-  BannerDE = "Wegen Weihnachtsferien vom 2. bis 6. Januar geschlossen. Wünsche dir ein frohes 2023!"
-  BannerES = "Cerrado por vacaciones de Navidad del 2 al 6 de enero. ¡Les deseamos un Feliz 2023!"
+  #BannerEN = "Closed for Xmas holidays from Jannuary 2nd to Jannuary 6th. Wish you a Happy 2023!"
+  #BannerDE = "Wegen Weihnachtsferien vom 2. bis 6. Januar geschlossen. Wünsche dir ein frohes 2023!"
+  #BannerES = "Cerrado por vacaciones de Navidad del 2 al 6 de enero. ¡Les deseamos un Feliz 2023!"
 
   #BannerEN = "Closed for holidays from Jun 20th to Jul 1st!"
   #BannerES = "Cerramos por vacaciones del 20 de junio al 1 de julio!"
   #BannerDE = "Feiertage vom 20. Juni bis 1. Juli geschlossen!"
 
-  #BannerEN = ""
-  #BannerES = ""
-  #BannerDE = ""
+  BannerEN = ""
+  BannerES = ""
+  BannerDE = ""
 
 
   horarioEN = "Opening hours: Mon-Wed, from 6pm to 11pm. Kitchen closes at 10:30pm. Thu and Fri from 7pm to 12pm. Kitchen closes at 11pm."

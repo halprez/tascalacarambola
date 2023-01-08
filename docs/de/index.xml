@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>La Carambola</title><link>https://tascalacarambola.com/de/</link><description>Recent content on La Carambola</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Tasca La Carambola&lt;/a></copyright><atom:link href="https://tascalacarambola.com/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Speisekarte</title><link>https://tascalacarambola.com/de/menu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tascalacarambola.com/de/menu/</guid><description>Tapas # Gericht 1/2 portion, 1 portion 1 Kanarischen Käsesorten 7€, 10€ 2 Kanarische gebratene Schweinshaxe 7€, 10€ 3 Datteln mit Speck 5€, 9€ 4 Padron paprika 6€, 8€ 5 Gegrillter Käse 5€, 9€ 6 Verschiedene Kroketten 8€, 16€ 7 Pilze oder Champignons mit Knoblauch 10€ 8 Knoblauchgarnelen 10€, 14€ 9 Panierte Pilze 9€, 12€ 10 Gefüllte mit Almogrote Pilze 4€, 8€ 11 Carambolas Kartoffeln 6€ 12 Geschredderte Rindfleischknödel 2€/u 13 Süßkartoffel mit Kabeljau und Mojo montadito 5€/u 14 Geräucherte Sardine montadito 4.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Carambola</title>
+    <link>https://tascalacarambola.com/de/</link>
+    <description>Recent content on La Carambola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tasca La Carambola&lt;/a&gt;</copyright><atom:link href="https://tascalacarambola.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speisekarte</title>
+      <link>https://tascalacarambola.com/de/menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tascalacarambola.com/de/menu/</guid>
+      <description>Tapas # Gericht 1/2 portion, 1 portion 1 Kanarischen Käsesorten 7€, 10€ 2 Kanarische gebratene Schweinshaxe 7€, 10€ 3 Datteln mit Speck 5€, 9€ 4 Padron paprika 6€, 8€ 5 Gegrillter Käse 5€, 9€ 6 Verschiedene Kroketten 8€, 16€ 7 Pilze oder Champignons mit Knoblauch 10€ 8 Knoblauchgarnelen 10€, 14€ 9 Panierte Pilze 9€, 12€ 10 Gefüllte mit Almogrote Pilze 4€, 8€ 11 Carambolas Kartoffeln 6€ 12 Geschredderte Rindfleischknödel 2€/u 13 Süßkartoffel mit Kabeljau und Mojo montadito 5€/u 14 Geräucherte Sardine montadito 4.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tascalacarambola.com/de/blog/</loc>
+    <loc>https://tascalacarambola.com/es/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tascalacarambola.com/de/blog/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,13 +18,13 @@
                 hreflang="es"
                 href="https://tascalacarambola.com/es/blog/"
                 />
+  </url><url>
+    <loc>https://tascalacarambola.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tascalacarambola.com/de/blog/"
+                href="https://tascalacarambola.com/de/"
                 />
-  </url><url>
-    <loc>https://tascalacarambola.com/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,13 +35,32 @@
                 hreflang="es"
                 href="https://tascalacarambola.com/es/"
                 />
+  </url><url>
+    <loc>https://tascalacarambola.com/es/menu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tascalacarambola.com/en/menu/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tascalacarambola.com/de/"
+                href="https://tascalacarambola.com/de/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://tascalacarambola.com/es/menu/"
                 />
   </url><url>
-    <loc>https://tascalacarambola.com/de/series/</loc>
+    <loc>https://tascalacarambola.com/es/book/</loc>
+  </url><url>
+    <loc>https://tascalacarambola.com/es/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tascalacarambola.com/de/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,30 +71,13 @@
                 hreflang="es"
                 href="https://tascalacarambola.com/es/series/"
                 />
+  </url><url>
+    <loc>https://tascalacarambola.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tascalacarambola.com/de/series/"
+                href="https://tascalacarambola.com/de/tags/"
                 />
-  </url><url>
-    <loc>https://tascalacarambola.com/de/menu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tascalacarambola.com/en/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://tascalacarambola.com/es/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tascalacarambola.com/de/menu/"
-                />
-  </url><url>
-    <loc>https://tascalacarambola.com/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,11 +87,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://tascalacarambola.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tascalacarambola.com/de/tags/"
                 />
   </url>
 </urlset>

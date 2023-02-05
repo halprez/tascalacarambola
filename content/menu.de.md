@@ -67,7 +67,6 @@ aliases: [/menu]
 | 36 | Fleischklößchen | 7€, 14€|
 | 37 | Kanarischer Rindfleischeintopf | 9€, 14€|
 | 39 | Knoblauch gehackte Hähnchen | 8€, 11€|
-| 40 | Knoblauch gebratenes Kaninchen | 10€|
 
 </details>
 
@@ -78,14 +77,17 @@ aliases: [/menu]
 
 <center>Rotweine</center>
 
-| # | Produkt | Preis |
-|---|:---|---:|
-| 50 | Hausrotwein | 1/4 2.50€, 1/2 5€|
-| 51 | Finca antigua  | glas 2.50€, 12€|
-| 56 | Tajinaste tinto  | glas 3€, 14€|
-| 57 | Cantaperdices (Ribera del Duero)  | 17€|
-| 58 | Viernes (Bierzo)  | 17€|
-| 59 | Pergamino Crianza (Rioja)  | 17€|
+| # | Producto | Precio |
+| --- | ---|---:|
+| 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
+| 41 | Finca antigua  | glas 2.50€, 12€|
+| 42 | Balcon canario  | glas 2.50€, 12€|
+| 43 | Cantaperdices (Ribera del Duero)  | 17€|
+| 44 | Viernes (Bierzo)  | 17€|
+| 45 | Pergamino Crianza (Rioja)  | 17€|
+| 46 | Cantaburros joven (Ribera del Duero)  | glas 3€, 13€|
+| 47 | Cantaburros barrica (Ribera del Duero)  | 15€|
+| 48 | Cantaburros crianza (Ribera del Duero) | 17€|
 
 <center>Weißweine</center>
 
@@ -108,8 +110,7 @@ aliases: [/menu]
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Manila IPL | 3€|
-| 77 | Estrella de galicia 0,0 | 3.50€|
+| 76 | Estrella de galicia 0,0 | 3.50€|
 
 ## Andere Getränke
 

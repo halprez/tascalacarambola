@@ -25,7 +25,6 @@ aliases: [/menu]
 | 14 | Montadito de sardina ahumada | 4€/u|
 | 15 | Papas arrugadas con mojo | 4€, 6€|
 
-
 </details>
 
 <details>
@@ -66,8 +65,7 @@ aliases: [/menu]
 | 35 | Solomillo troceado con gambas| 17€, 23€|
 | 36 | Albóndigas | 9€|
 | 37 | Carne en salsa| 9€, 14€|
-| 39 | Delicias de pollo al ajillo| 8€, 11€|
-| 40 | Conejo frito| 10€|
+| 38 | Delicias de pollo al ajillo| 8€, 11€|
 
 </details>
 
@@ -80,13 +78,15 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 | --- | ---|---:|
-| 50 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
-| 51 | Finca antigua  | copa 2.50€, 12€|
-| 56 | Tajinaste tinto  | copa 3€, 14€|
-| 57 | Cantaperdices (Ribera del Duero)  | 17€|
-| 58 | Viernes (Bierzo)  | 17€|
-| 59 | Pergamino Crianza (Rioja)  | 17€|
-
+| 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
+| 41 | Finca antigua  | copa 2.50€, 12€|
+| 42 | Balcon canario  | copa 2.50€, 12€|
+| 43 | Cantaperdices (Ribera del Duero)  | 17€|
+| 44 | Viernes (Bierzo)  | 17€|
+| 45 | Pergamino Crianza (Rioja)  | 17€|
+| 46 | Cantaburros joven (Ribera del Duero)  | copa 3€, 13€|
+| 47 | Cantaburros barrica (Ribera del Duero)  | 15€|
+| 48 | Cantaburros crianza (Ribera del Duero) | 17€|
 
 <center>Blancos</center>
 
@@ -96,8 +96,8 @@ aliases: [/menu]
 | 61 | Vino blanco afrutado a granel | 1/4 2.50€, 1/2 5€|
 | 62 | Brumas de Ayoza Afrutado | 16€|
 | 63 | Brumas de Ayoza Seco | 16€|
-| 65 | Ari Goitia Rueda Verdejo | copa 2.50€, 11€|
-| 66 | Calius blanco seco| 17€|
+| 64 | Ari Goitia Rueda Verdejo | copa 2.50€, 11€|
+| 65 | Calius blanco seco| 17€|
 
 ## Cervezas
 
@@ -109,17 +109,15 @@ aliases: [/menu]
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Manila IPL | 3€|
-| 77 | Estrella de galicia 0,0 | 3.50€|
-
+| 76 | Estrella de galicia 0,0 | 3.50€|
 
 ## Otras bebidas
 
 | # | Producto | Precio |
 |---|:---|---:|
-| 80 | Agua |  1/2l 1.20€, 1l 2€|
-| 81 | Agua con gas |  1/2l 1.20€|
-| 82 | Refrescos |  1.50€|
+| 90 | Agua |  1/2l 1.20€, 1l 2€|
+| 91 | Agua con gas |  1/2l 1.20€|
+| 92 | Refrescos |  1.50€|
 
 </details>
 
@@ -128,11 +126,11 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|:---|---:|
-| 90 | Flanes caseros|  4€|
-| 91 | Tartas caseras|  4.20€|
-| 92 | Café solo o infusiones|  1.20€|
-| 93 | Cortados |  1.50€|
-| 94 | Café con leche |  2.00€|
+| 93 | Flanes caseros|  4€|
+| 94 | Tartas caseras|  4.20€|
+| 95 | Café solo o infusiones|  1.20€|
+| 96 | Cortados |  1.50€|
+| 97 | Café con leche |  2.00€|
 
 </details>
 

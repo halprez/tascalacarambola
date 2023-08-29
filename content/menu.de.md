@@ -19,11 +19,11 @@ aliases: [/menu]
 | 8 | Knoblauchgarnelen | 10€, 14€|
 | 9 | Panierte Pilze | 9€, 12€|
 | 10 | Gefüllte mit Almogrote Pilze | 4€, 8€|
-| 11 | Carambolas Kartoffeln| 6€|
+| 11 | Carambolas Kartoffeln| 5€|
 | 12 | Geschredderte Rindfleischknödel | 2€/u|
 | 13 | Süßkartoffel mit Kabeljau und Mojo montadito | 5€/u|
 | 14 | Geräucherte Sardine montadito | 4.50€/u|
-| 15 | Runzlige kartoffeln mit Mojo | 4€, 6€|
+| 15 | Runzlige kartoffeln mit Mojo | 5€, 8€|
 
 
 </details>
@@ -34,7 +34,9 @@ aliases: [/menu]
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
 | 17 | Salat des Hauses | 8.50€, 13€|
-| 18 | Tomaten, Sardellen und Avocado salat | 10€€|
+| 18 | Tomaten, Sardellen und Avocado salat | 10€|
+| 19 | Salat der Saison | 10€|
+
 
 </details>
 
@@ -45,11 +47,11 @@ aliases: [/menu]
 |---|:---|---:|
 | 20 | Haus Rührei | 9€|
 | 21 | Garnelen und Pilze Rührei | 11€|
-| 22 | Kanarisches Omelett | 8€, 11€|
+| 22 | Kanarisches Omelett | 10€, 14€|
 | 23 | Knoblauchomelett | 5€|
-| 24 | Spanisches Omlett | 5€, 7€|
-| 25 | Wurstomelett| 6€, 8€|
-| 26 | Kabeljau-Omelett| 8€, 11€|
+| 24 | Spanisches Omlett | 8€, 10€|
+| 25 | Wurstomelett| 9€, 12€|
+| 26 | Kabeljau-Omelett| 10€, 14€|
 
 </details>
 
@@ -80,14 +82,15 @@ aliases: [/menu]
 | # | Producto | Precio |
 | --- | ---|---:|
 | 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
-| 41 | Finca antigua  | glas 2.50€, 12€|
-| 42 | Balcon canario  | glas 2.50€, 12€|
-| 43 | Cantaperdices (Ribera del Duero)  | 17€|
-| 44 | Viernes (Bierzo)  | 17€|
-| 45 | Pergamino Crianza (Rioja)  | 17€|
-| 46 | Cantaburros joven (Ribera del Duero)  | glas 3€, 13€|
-| 47 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 48 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 41 | Viña Berneda joven  (Rioja) | glas 2.50€, 12€|
+| 42 | Marba joven (Tacoronte)  | glas 3€, 14€|
+| 43 | Marba barrica  (Tacoronte) | 19€|
+| 44 | Cantaperdices (Ribera del Duero)  | 17€|
+| 45 | Viernes (Bierzo)  | 17€|
+| 46 | Pergamino Crianza (Rioja)  | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | glas 3€, 13€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
 
 <center>Weißweine</center>
 

@@ -19,11 +19,11 @@ aliases: [/menu]
 | 8 | Garlic prawns | 10€, 14€|
 | 9 | Breaded mushrooms | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Carambola's potatoes | 6€|
+| 11 | Carambola's potatoes | 5€|
 | 12 | Shredded beef dumplings | 2€/u|
 | 13 | Sweet potatoe with cod and mojo montadito | 5€/u|
 | 14 | Smoked sardine montadito | 4€/u|
-| 15 | Papas arrugadas with mojo | 4€, 6€|
+| 15 | Papas arrugadas with mojo | 5€, 8€|
 
 
 </details>
@@ -35,6 +35,8 @@ aliases: [/menu]
 |---|:---|---:|
 | 17 | House salad | 8.50€, 13€|
 | 18 | Tomatoes, anchovies and avocado salad | 10€|
+| 19 | Seasonal salad | 10€|
+
 
 </details>
 
@@ -45,11 +47,11 @@ aliases: [/menu]
 |---|---|---:|
 | 20 | House scrambled eggs | 7€, 9€|
 | 21 | Prawns and mushrooms scrambled eggs | 11€|
-| 22 | Canarian omelette | 8€, 11€|
+| 22 | Canarian omelette | 10€, 14€|
 | 23 | Garlic omelette | 5€|
-| 24 | Spanish omelette | 5€, 7€|
-| 25 | Cured sausages omelette | 6€, 8€|
-| 26 | Cod omelette | 8€, 11€|
+| 24 | Spanish omelette | 8€, 10€|
+| 25 | Cured sausages omelette | 9€, 12€|
+| 26 | Cod omelette | 10€, 14€|
 
 </details>
 
@@ -80,14 +82,15 @@ aliases: [/menu]
 | # | Producto | Precio |
 | --- | ---|---:|
 | 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
-| 41 | Finca antigua  | glass 2.50€, 12€|
-| 42 | Balcon canario  | glass 2.50€, 12€|
-| 43 | Cantaperdices (Ribera del Duero)  | 17€|
-| 44 | Viernes (Bierzo)  | 17€|
-| 45 | Pergamino Crianza (Rioja)  | 17€|
-| 46 | Cantaburros joven (Ribera del Duero)  | glass 3€, 13€|
-| 47 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 48 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 41 | Viña Berneda joven  (Rioja) | glass 2.50€, 12€|
+| 42 | Marba joven (Tacoronte)  | glass 3€, 14€|
+| 43 | Marba barrica  (Tacoronte) | 19€|
+| 44 | Cantaperdices (Ribera del Duero)  | 17€|
+| 45 | Viernes (Bierzo)  | 17€|
+| 46 | Pergamino Crianza (Rioja)  | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | glass 3€, 13€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
 
 <center>White wines</center>
 

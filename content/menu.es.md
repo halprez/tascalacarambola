@@ -19,11 +19,11 @@ aliases: [/menu]
 | 8 | Gambas al ajillo | 10€, 14€|
 | 9 | Champiñones empanados | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Papas Carambola | 6€ |
+| 11 | Papas Carambola | 5€ |
 | 12 | Empanadas de carne mechada | 2.00€/u|
 | 13 | Montadito de bacalao | 5€/u|
 | 14 | Montadito de sardina ahumada | 4€/u|
-| 15 | Papas arrugadas con mojo | 4€, 6€|
+| 15 | Papas arrugadas con mojo | 5€, 8€|
 
 </details>
 
@@ -34,6 +34,8 @@ aliases: [/menu]
 |---|---|---:|
 | 17 | Ensalada de la casa | 9€, 14€|
 | 18 | Ensalada de tomate, boquerones y aguacate | 10€|
+| 19 | Ensalada de temporada | 10€|
+
 
 </details>
 
@@ -44,11 +46,11 @@ aliases: [/menu]
 |---|---|---:|
 | 20 | Revuelto de la casa | 9€|
 | 21 | Revuelto de setas y gambas | 11€|
-| 22 | Tortilla canaria | 8€, 11€|
+| 22 | Tortilla canaria | 10€, 14€|
 | 23 | Tortilla de ajo | 5€|
-| 24 | Tortilla española | 5€, 7€|
-| 25 | Tortilla de embutidos | 6€, 8€|
-| 26 | Tortilla de bacalao | 8€, 11€|
+| 24 | Tortilla española | 8€, 10€|
+| 25 | Tortilla de embutidos | 9€, 12€|
+| 26 | Tortilla de bacalao | 10€, 14€|
 
 </details>
 
@@ -79,14 +81,15 @@ aliases: [/menu]
 | # | Producto | Precio |
 | --- | ---|---:|
 | 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
-| 41 | Finca antigua  | copa 2.50€, 12€|
-| 42 | Balcon canario  | copa 2.50€, 12€|
-| 43 | Cantaperdices (Ribera del Duero)  | 17€|
-| 44 | Viernes (Bierzo)  | 17€|
-| 45 | Pergamino Crianza (Rioja)  | 17€|
-| 46 | Cantaburros joven (Ribera del Duero)  | copa 3€, 13€|
-| 47 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 48 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 41 | Viña Berneda joven  (Rioja) | copa 2.50€, 12€|
+| 42 | Marba joven (Tacoronte)  | copa 3€, 14€|
+| 43 | Marba barrica  (Tacoronte) | 19€|
+| 44 | Cantaperdices (Ribera del Duero)  | 17€|
+| 45 | Viernes (Bierzo)  | 17€|
+| 46 | Pergamino Crianza (Rioja)  | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | copa 3€, 13€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
 
 <center>Blancos</center>
 

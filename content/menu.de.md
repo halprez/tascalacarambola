@@ -87,7 +87,7 @@ aliases: [/menu]
 | 43 | Marba barrica  (Tacoronte) | 19€|
 | 44 | Cantaperdices (Ribera del Duero)  | 17€|
 | 45 | Viernes (Bierzo)  | 17€|
-| 46 | Pergamino Crianza (Rioja)  | 17€|
+| 46 | Viña Berneda Crianza (Rioja)  | 17€|
 | 47 | Cantaburros joven (Ribera del Duero)  | glas 3€, 13€|
 | 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
 | 49 | Cantaburros crianza (Ribera del Duero) | 17€|

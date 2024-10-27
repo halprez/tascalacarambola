@@ -45,7 +45,7 @@ body {
         Arial,
         sans-serif;
     font-display: auto;
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.54;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -63,7 +63,7 @@ body {
     color: $light-color;
 
     @media #{$media-size-phone} {
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 
     @media (prefers-color-scheme: dark) {

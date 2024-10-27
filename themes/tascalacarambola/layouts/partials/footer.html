@@ -1,0 +1,15 @@
+<div class="header">
+    <footer class="footer">
+        <div class="footer__inner">
+            <div class="footer__content">
+                {{ if .Site.Params.Copyright }}
+                <span>{{ .Site.Params.Copyright| safeHTML }}</span>
+                {{ end }} {{ if .Site.Params.avisolegal }}
+                <span>{{ .Site.Params.avisolegal| safeHTML }}</span>
+                {{ end }} {{ if .Site.Params.politicaprivacidad }}
+                <span>{{ .Site.Params.politicaprivacidad| safeHTML }}</span>
+                {{ end }}
+            </div>
+        </div>
+    </footer>
+</div>

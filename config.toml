@@ -1,165 +1,143 @@
-baseurl      = "https://tascalacarambola.com"
-title        = "La Carambola"
+baseurl = "https://tascalacarambola.com"
+title = "La Carambola"
 languageCode = "es-es"
-theme        = "hello-friend-ng"
-paginate     = 10
+theme = "tascalacarambola"
 DefaultContentLanguage = "es"
-copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Tasca La Carambola</a>'
 defaultContentLanguageInSubdir = true
 disableLanguageSwitchingButton = true
 SiteLocationURL = "https://tascalacarambola.com"
 publishDir = "docs"
 
-[markup]
-# defaultMarkdownHandler = "blackfriday"
-
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
+[pagination]
+pagerSize = 10
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+dateform = "2 Jan, 2006"
+dateformShort = "2 Jan"
+dateformNum = "02-01-2006"
+dateformNumTime = "15:04 02-01-2006"
 
-  # [wallpaper]
-  #   path = "images/logo.jpg"
-  #   width = "200"
-  #   alt = "images/logo.jpg"
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+# Enable sharing buttons, if you linke
+enableSharingButtons = true
 
-  # Enable sharing buttons, if you linke
-  enableSharingButtons = true
+# Metadata mostly used in document's head
+description = "Tasca La Carambola"
+keywords = "site, tasca, restaurant, dinner, el sauzal"
+images = [""]
 
-  # Metadata mostly used in document's head
-  description = "Tasca La Carambola's site"
-  keywords = "site, tasca, restaurant"
-  images = [""]
+# Default theme "light" or "dark"
+defaultTheme = "light"
+homeSubtitle = "Tasca"
+Address = "Calle Las Macetas, 8. El Sauzal, Tenerife, Islas Canarias."
+Phone = "+34922570891"
+Email = "tascalacarambola@gmail.com"
+LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
 
-  # Default theme "light" or "dark"
-  defaultTheme = "light"
-  #bgimg = "/images/pizarra.png"
-  homeSubtitle = "Tasca"
-  Address = "Calle Las Macetas, 8. El Sauzal, Tenerife, Islas Canarias."
-  Phone = "+34922570891"
-  Email = "tascalacarambola@gmail.com"
-  LocationURL = "https://goo.gl/maps/wRXkE8eQZwrQahjSA"
+# Legal
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">© 2024 Tasca La Carambola</a>'
+avisolegal = '<a href="/pdf/aviso_legal.pdf" target="_blank" rel="noopener">Aviso Legal</a>'
+politicaprivacidad = '<a href="/pdf/politica.pdf" target="_blank" rel="noopener">Política de privacidad</a>'
 
-  #BannerEN = "Closed for Xmas holidays from Jannuary 2nd to Jannuary 6th. Wish you a Happy 2023!"
-  #BannerDE = "Wegen Weihnachtsferien vom 2. bis 6. Januar geschlossen. Wünsche dir ein frohes 2023!"
-  #BannerES = "Cerrado por vacaciones de Navidad del 2 al 6 de enero. ¡Les deseamos un Feliz 2023!"
-
-  #BannerEN = "Closed for holidays from Jun 20th to Jul 1st!"
-  #BannerES = "Cerramos por vacaciones del 20 de junio al 1 de julio!"
-  #BannerDE = "Feiertage vom 20. Juni bis 1. Juli geschlossen!"
-
-  BannerEN = ""
-  BannerES = ""
-  BannerDE = ""
-
-# HORARIO INVIERNO
-# horarioEN = "Opening hours: Mon-Wed, from 6pm to 11pm. Kitchen closes at 10:30pm. Thu and Fri from 7pm to 12pm. Kitchen closes at 11pm."
-# horarioES = "Horario: De Lun-Mie, de 6pm a 11pm. La cocina cierra a las 10:30pm. Jueves y viernes de 7 a 12. La cocina cierra a las 11pm."
-# horarioDE = "Öffnungszeiten: Mo-Mi, von 18:00 bis 23:00 Uhr. Die Küche schließt um 22:30 Uhr. Do und Fr von 19:00 bis 12:00 Uhr. Die Küche schließt um 23 Uhr"
-
-# HORARIO VERANO
-horarioEN = "Opening hours: Mon-Fri, from 7pm to 0am. Kitchen closes at 11pm."
-horarioES = "Horario: De Lun-Vie, de 7pm a 0am. La cocina cierra a las 11pm."
-horarioDE = "Öffnungszeiten: Mo-Fr, von 19:00 bis 0:00 Uhr. Die Küche schließt um 23:00 Uhr."
+EnableGlobalLanguageMenu = 'True'
 
 
+# [taxonomies]
+# category = "blog"
+# tag = "tags"
+disableKinds = ['taxonomy', 'term']
 [taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
 
 [params.logo]
-      logoText = "@"
-      logoHomeLink = "/"
-      logoTextDE = "La Carambola"
-      logoTextES = "La Carambola"
-      logoTextEN = "La Carambola"
+logoText = "La Carambola"
+logoHomeLink = "/"
 
-[[params.social]]     
-    name = "whatsapp"
-    url = "https://wa.me/+34607385947"
-    weight = 10
+# Shows special blinking banner defined in [language].toml files
+[params.banner]
+show = "False"
 
 [[params.social]]
-    name = "phone"
-    url = "tel:+34922570891"
-    weight = 20
+name = "whatsapp"
+url = "https://wa.me/+34607385947"
+weight = 10
 
 [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/tascalacarambola"
-    weight = 30
+name = "phone"
+url = "tel:+34922570891"
+weight = 20
 
 [[params.social]]
-    name = "email"
-    url = "mailto:tascalacarambola@gmail.com"
-    weight = 40
+name = "instagram"
+url = "https://instagram.com/tascalacarambola"
+weight = 30
 
-# [[params.social]]
-#     name = "cart"
-#     url = "https://www.foodbooking.com/ordering/?restaurant_uid=a4fc35d6-b140-42eb-bfec-41e51f50483d&glfa_cid=743883251.1616267784&glfa_t=1616439619448&_sp=da24acea-dd0f-4467-9392-e5d59ca7a508.1616439619448"
-#     weight = 20
+[[params.social]]
+name = "email"
+url = "mailto:tascalacarambola@gmail.com"
+weight = 40
 
 [permalinks]
-   posts = "/:year/:month/:title/"
+posts = "/:year/:month/:title/"
 
 [languages]
-############ ENGLISH ################
-  [languages.en]
-    keywords = ""
-    languagename = "English"
-    languageCode = "en-UK"
-    
-  # And you can even create generic menu
-  [[languages.en.menu.main]]
-    name = "Menu"
-    url = "menu/"
-    weight = 10
-
-  [[languages.en.menu.main]]
-    name = "Reservations"
-    url = "https://reservas.tascalacarambola.com"
-    weight = 20
-
 ############ SPANISH ################
 
-  [languages.es]
-    keywords = ""
-    readOtherPosts = "Read other posts"
-    languagename = "Español"
-    languageCode = "es-ES"
+[languages.es]
+languageName = "Español"
+languageCode = "es-ES"
 
-  [[languages.es.menu.main]]
-    name = "Menú"
-    url = "menu/"
-    weight = 10
+[languages.es.params]
+keywords = "menu, tasca, restaurante, cena, el sauzal, tenerife"
 
-  [[languages.es.menu.main]]
-    name = "Reservas"
-    url = "https://reservas.tascalacarambola.com"
-    weight = 20
+[[languages.es.menu.main]]
+name = "Menú"
+url = "menu/"
+weight = 10
 
+[[languages.es.menu.main]]
+name = "Reservas"
+url = "https://reservas.tascalacarambola.com"
+weight = 20
 
-  [languages.de]
-    keywords = ""
-    readOtherPosts = "Read other posts"
-    languagename = "Deutsche"
-    languageCode = "de-DE"
+############ ENGLISH ################
 
-  [[languages.de.menu.main]]
-    name = "Speisekarte"
-    url = "menu/"
-    weight = 10
+[languages.en]
+languageName = "English"
+languageCode = "en-UK"
 
-  [[languages.de.menu.main]]
-    name = "Buchungen"
-    url = "https://reservas.tascalacarambola.com"
-    weight = 20
+[languages.en.params]
+keywords = "menu, tasca, restaurant, abendessen, el sauzal, teneriffa"
+
+[[languages.en.menu.main]]
+name = "Menu"
+url = "menu/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Reservations"
+url = "https://reservas.tascalacarambola.com"
+weight = 20
+
+############ DEUSCH ################
+
+[languages.de]
+languageName = "Deutsche"
+languageCode = "de-DE"
+
+[languages.de.params]
+keywords = ""
+
+[[languages.de.menu.main]]
+name = "Speisekarte"
+url = "menu/"
+weight = 10
+
+[[languages.de.menu.main]]
+name = "Buchungen"
+url = "https://reservas.tascalacarambola.com"
+weight = 20

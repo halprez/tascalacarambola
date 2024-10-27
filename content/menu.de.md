@@ -28,7 +28,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Salate</summary>
 
 | # | Gericht | 1/2 portion, 1 portion |
@@ -40,7 +40,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Omeletts und Rührei</summary>
 
 | # | Gericht | 1/2 portion, 1 portion |
@@ -55,7 +55,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Fleisch und Fisch</summary>
 
 | # | Gericht | 1/2 portion, 1 portion |
@@ -63,16 +63,16 @@ aliases: [/menu]
 | 30 | Mit Fleisch oder Thunfisch gefüllte Zucchini |  8.50€/u|
 | 31 | Mit Fleisch oder Thunfisch gefüllter Pfeffer |  8.50€/u|
 | 32 | Moussaka |  8.50€/u|
-| 33 | Knoblauch gehacktes Rinderfilet | 15€, 19€|
-| 34 | Gehacktes Rinderfilet mit Cocacola | 16€, 21€|
-| 35 | Gehacktes Rinderfilet mit Garnelen | 17€, 23€|
+| 33 | Knoblauch gehacktes Rinderfilet | 16€, 20€|
+| 34 | Gehacktes Rinderfilet mit Cocacola | 17€, 22€|
+| 35 | Gehacktes Rinderfilet mit Garnelen | 18€, 25€|
 | 36 | Fleischklößchen | 7€, 14€|
 | 37 | Kanarischer Rindfleischeintopf | 9€, 14€|
 | 39 | Knoblauch gehackte Hähnchen | 8€, 11€|
 
 </details>
 
-<details>
+<details open>
 <summary>Zum Trinken</summary>
 
 ## Weine
@@ -88,9 +88,12 @@ aliases: [/menu]
 | 44 | Cantaperdices (Ribera del Duero)  | 17€|
 | 45 | Viernes (Bierzo)  | 17€|
 | 46 | Viña Berneda Crianza (Rioja)  | 17€|
-| 47 | Cantaburros joven (Ribera del Duero)  | glas 3€, 13€|
-| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | glas 3€, 14€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 16€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 18€|
+| 77 | Tacoa IPA (handwerklich) | 4.50€|
+| 78 | Tacoa Surfer (handwerklich) | 4.25€|
+| 79 | Tacoa Tajinaste (handwerklich) | 4.50€|
 
 <center>Weißweine</center>
 
@@ -125,7 +128,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Kaffee und Desserts</summary>
 
 | # | Produkt | Preis |
@@ -138,4 +141,4 @@ aliases: [/menu]
 
 </details>
 
-Steuern inbegriffen.
+<p style="text-align:center;">Steuern inbegriffen</p>

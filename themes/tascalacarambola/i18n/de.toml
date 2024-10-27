@@ -1,0 +1,54 @@
+# Translations for German
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Übersetzungen"
+
+[postAvailable]
+other = "Auch verfügbar auf"
+
+[reserveButtonText]
+other = "Reservieren Sie Ihren Tisch"
+
+[bannerText]
+other = "Achtung! Neuer Winterfahrplan!"
+
+[scheduleText]
+other = "Öffnungszeiten: Mo-Fr, von 18:00 bis 23:30 Uhr. Küchenschluss 22:30 Uhr."
+
+[contactText]
+other = "Kontaktieren Sie uns:"
+# 404.html
+#
+[archives]
+other = "Archiv"
+
+[home]
+other = "Home"
+
+[notFound]
+other = "Oops, Seite nicht gefunden ..."
+
+
+# posts/single.html
+#
+[readingTime]
+one = "Eine Minute"
+other = "{{ .Count }} Minuten"
+
+[tableOfContents]
+other = "Inhaltsverzeichnis"
+
+[wordCount]
+one = "Ein Wort"
+other = "{{ .Count }} Wörter"
+
+[lastModified]
+other = "Letzte Aktualisierung"
+
+# partials/pagination-list.html
+[pagination]
+newerPosts = "Neuere Beiträge"
+olderPosts = "Ältere Beiträge"

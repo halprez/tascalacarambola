@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on La Carambola</title><link>https://tascalacarambola.com/en/blog/</link><description>Recent content in Blog on La Carambola</description><generator>Hugo -- gohugo.io</generator><language>en-UK</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Tasca La Carambola&lt;/a></copyright><atom:link href="https://tascalacarambola.com/en/blog/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on La Carambola</title>
+    <link>http://localhost:1313/en/blog/</link>
+    <description>Recent content in Blog on La Carambola</description>
+    <generator>Hugo</generator>
+    <language>en-UK</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tasca La Carambola&lt;/a&gt;</copyright>
+    <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

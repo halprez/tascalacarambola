@@ -9,7 +9,7 @@ aliases: [/menu]
 
 | # | Dish | 1/2 serving, 1 serving |
 |---|:---|---:|
-| 1 | Assorted Canarian Cheese | 7€, 10€| 
+| 1 | Assorted Canarian Cheese | 7€, 10€|
 | 2 | Canarian roasted pork | 7€, 10€|
 | 3 | Dates with bacon | 5€, 9€|
 | 4 | Padron peppers | 6€, 8€|
@@ -28,7 +28,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Salads</summary>
 
 | # |  Dish | 1/2 serving, 1 serving |
@@ -40,7 +40,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Omelettes and scrambled eggs</summary>
 
 | # | Dish | 1/2 serving, 1 serving |
@@ -55,7 +55,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Meat and fish</summary>
 
 | # | Dish | 1/2 serving, 1 serving |
@@ -63,16 +63,16 @@ aliases: [/menu]
 | 30 | Meat or tuna stuffed zucchini | 8.50€/u|
 | 31 | Meat or tuna stuffed pepper | 8.50€/u|
 | 32 | Moussaka | 8.50€/u|
-| 33 | Garlic chopped beef sirloin | 15€, 19€|
-| 34 | Chopped beef sirloin w/ Cocacola | 16€, 21€|
-| 35 | Chopped beef sirloin with prawns | 17€, 23€|
+| 33 | Garlic chopped beef sirloin | 16€, 20€|
+| 34 | Chopped beef sirloin w/ Cocacola | 17€, 22€|
+| 35 | Chopped beef sirloin with prawns | 18€, 25€|
 | 36 | Meatballs | 9€|
 | 37 | Canarian beef stew | 9€, 14€|
 | 39 | Garlic chopped chicken breast | 8€, 11€|
 
 </details>
 
-<details>
+<details open>
 <summary>For drinking</summary>
 
 ## Wines
@@ -88,9 +88,9 @@ aliases: [/menu]
 | 44 | Cantaperdices (Ribera del Duero)  | 17€|
 | 45 | Viernes (Bierzo)  | 17€|
 | 46 | Viña Berneda Crianza (Rioja)  | 17€|
-| 47 | Cantaburros joven (Ribera del Duero)  | glass 3€, 13€|
-| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | glass 3€, 14€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 16€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 18€|
 
 <center>White wines</center>
 
@@ -105,7 +105,7 @@ aliases: [/menu]
 
 ## Beers
 
-|   | Product | Price |
+| # | Product | Price |
 |---|---|---:|
 | 70 | Draft beer |  caña 1.50€, 1906 3.50€|
 | 71 | Dorada pilsen o especial  | 1.50€|
@@ -114,10 +114,13 @@ aliases: [/menu]
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
 | 76 | Estrella de galicia 0,0 | 3.50€|
+| 77 | Tacoa IPA (artisanal) | 4.50€|
+| 78 | Tacoa Surfer (artisanal) | 4.25€|
+| 79 | Tacoa Tajinaste (artisanal) | 4.50€|
 
 ## Other drinks
 
-|   | Product | Price |
+| # | Product | Price |
 |---|:---|---:|
 | 80 | Water |  1/2l 1.20€, 1l 2€|
 | 81 | Sparkling water |  1/2l 1.20€|
@@ -125,7 +128,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Coffee and deserts</summary>
 
 | # | Product | Price |
@@ -138,4 +141,4 @@ aliases: [/menu]
 
 </details>
 
-TAXes included.
+<p style="text-align:center;">Taxes included</p>

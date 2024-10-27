@@ -27,7 +27,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Ensaladas</summary>
 
 | # | Plato | 1/2 ración, 1 ración |
@@ -39,7 +39,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Tortillas y revueltos</summary>
 
 | # | Plato | 1/2 ración, 1 ración |
@@ -54,7 +54,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Carne y pescado</summary>
 
 | # | Plato | 1/2 ración, 1 ración |
@@ -62,16 +62,16 @@ aliases: [/menu]
 | 30 | Bubango relleno de atún o carne | 8.50€/u|
 | 31 | Pimiento relleno de atún o carne | 8.50€/u|
 | 32 | Moussaka | 8.50€/u|
-| 33 | Solomillo troceado al ajillo| 15€, 19€|
-| 34 | Solomillo troceado a la Cocacola| 16€, 21€|
-| 35 | Solomillo troceado con gambas| 17€, 23€|
+| 33 | Solomillo troceado al ajillo| 16€, 20€|
+| 34 | Solomillo troceado a la Cocacola| 17€, 22€|
+| 35 | Solomillo troceado con gambas| 18€, 25€|
 | 36 | Albóndigas | 9€|
 | 37 | Carne en salsa| 9€, 14€|
 | 38 | Delicias de pollo al ajillo| 8€, 11€|
 
 </details>
 
-<details>
+<details open>
 <summary>Para beber</summary>
 
 ## Vinos
@@ -87,9 +87,9 @@ aliases: [/menu]
 | 44 | Cantaperdices (Ribera del Duero)  | 17€|
 | 45 | Viernes (Bierzo)  | 17€|
 | 46 | Viña Berneda Crianza (Rioja)  | 17€|
-| 47 | Cantaburros joven (Ribera del Duero)  | copa 3€, 13€|
-| 48 | Cantaburros barrica (Ribera del Duero)  | 15€|
-| 49 | Cantaburros crianza (Ribera del Duero) | 17€|
+| 47 | Cantaburros joven (Ribera del Duero)  | copa 3€, 14€|
+| 48 | Cantaburros barrica (Ribera del Duero)  | 16€|
+| 49 | Cantaburros crianza (Ribera del Duero) | 18€|
 
 <center>Blancos</center>
 
@@ -113,6 +113,9 @@ aliases: [/menu]
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
 | 76 | Estrella de galicia 0,0 | 3.50€|
+| 77 | Tacoa IPA (artesanal) | 4.50€|
+| 78 | Tacoa Surfer (artesanal) | 4.25€|
+| 79 | Tacoa Tajinaste (artesanal) | 4.50€|
 
 ## Otras bebidas
 
@@ -124,7 +127,7 @@ aliases: [/menu]
 
 </details>
 
-<details>
+<details open>
 <summary>Postres y cafés</summary>
 
 | # | Producto | Precio |
@@ -133,8 +136,8 @@ aliases: [/menu]
 | 94 | Tartas caseras|  4.20€|
 | 95 | Café solo o infusiones|  1.20€|
 | 96 | Cortados |  1.50€|
-| 97 | Café con leche |  2.00€|
+| 97 | Café con leche |  2€|
 
 </details>
 
-Impuestos incluidos.
+<p style="text-align:center;">Impuestos incluidos</p>

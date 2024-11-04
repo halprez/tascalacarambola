@@ -1,13 +1,13 @@
 {{ range . -}} &nbsp;
 <a
     href="{{ .url }}"
-    {{if
+    {{
+    if
     eq
     .nonewpage
     0}}
     target="_blank"
     {{end}}
-    rel="me noopener {{ .rel }}"
     title="{{ .name | humanize }}"
     >{{ partial "svg.html" . }}</a
 >

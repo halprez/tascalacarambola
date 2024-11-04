@@ -68,7 +68,7 @@ weight = 10
 
 [[params.social]]
 name = "phone"
-url = "tel:+34922570891"
+url = "Tel:+34922570891"
 weight = 20
 
 [[params.social]]

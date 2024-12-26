@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tascalacarambola.com/de/</loc>
+    <loc>http://localhost:1313/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="https://tascalacarambola.com/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-UK"
-                href="https://tascalacarambola.com/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://tascalacarambola.com/de/"
+                href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>https://tascalacarambola.com/de/menu/</loc>
+    <loc>http://localhost:1313/de/menu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-UK"
-                href="https://tascalacarambola.com/en/menu/"
+                href="http://localhost:1313/en/menu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="https://tascalacarambola.com/es/menu/"
+                href="http://localhost:1313/es/menu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://tascalacarambola.com/de/menu/"
+                href="http://localhost:1313/de/menu/"
                 />
   </url>
 </urlset>

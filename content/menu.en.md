@@ -14,14 +14,14 @@ aliases: [/menu]
 | 3 | Dates with bacon | 5€, 9€|
 | 4 | Padron peppers | 6€, 8€|
 | 5 | Grilled cheese | 5€, 9€|
-| 6 | Assorted croquettes | 8€, 16€|
+| 6 | Assorted croquettes | 9€, 18€|
 | 7 | Garlic button-mudhrooms or mushrooms | 10€|
 | 8 | Garlic prawns | 10€, 14€|
 | 9 | Breaded mushrooms | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Carambola's potatoes | 5€|
-| 12 | Shredded beef dumplings | 2€/u|
-| 13 | Sweet potatoe with cod and mojo montadito | 5€/u|
+| 11 | Carambola's potatoes | 6€|
+| 12 | Shredded beef dumplings | 3€/u|
+| 13 | Sweet potatoe with cod and mojo montadito | 6€/u|
 | 14 | Smoked sardine montadito | 4€/u|
 | 15 | Papas arrugadas with mojo | 5€, 8€|
 
@@ -33,7 +33,7 @@ aliases: [/menu]
 
 | # |  Dish | 1/2 serving, 1 serving |
 |---|:---|---:|
-| 17 | House salad | 8.50€, 13€|
+| 17 | House salad | 10€, 15€|
 | 18 | Tomatoes, anchovies and avocado salad | 10€|
 | 19 | Seasonal salad | 10€|
 
@@ -79,9 +79,9 @@ aliases: [/menu]
 
 <center>Red wines</center>
 
-| # | Producto | Precio |
+| # | Product | Price |
 | --- | ---|---:|
-| 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
+| 40 | Red house wine  | 1/4 3€, 1/2 5€|
 | 41 | Viña Berneda joven  (Rioja) | glass 2.50€, 12€|
 | 42 | Marba joven (Tacoronte)  | glass 3€, 14€|
 | 43 | Marba barrica  (Tacoronte) | 19€|
@@ -107,13 +107,13 @@ aliases: [/menu]
 
 | # | Product | Price |
 |---|---|---:|
-| 70 | Draft beer |  caña 1.50€, 1906 3.50€|
-| 71 | Dorada pilsen o especial  | 1.50€|
-| 72 | Dorada sin o Tropical limón | 1.50€|
+| 70 | Draft beer |  caña 2€, 1906 3.50€|
+| 71 | Dorada pilsen o especial  | 1.80€|
+| 72 | Dorada sin o Tropical limón | 2€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Estrella de galicia 0,0 | 3.50€|
+| 76 | Estrella de galicia 0,0 | 2€|
 | 77 | Tacoa IPA (artisanal) | 4.50€|
 | 78 | Tacoa Surfer (artisanal) | 4.25€|
 | 79 | Tacoa Tajinaste (artisanal) | 4.50€|
@@ -122,9 +122,9 @@ aliases: [/menu]
 
 | # | Product | Price |
 |---|:---|---:|
-| 80 | Water |  1/2l 1.20€, 1l 2€|
-| 81 | Sparkling water |  1/2l 1.20€|
-| 82 | Sodas |  1.50€|
+| 80 | Water |  1/2l 1.50€, 1l 2.50€|
+| 81 | Sparkling water |  1/2l 2.50€|
+| 82 | Sodas |  2€|
 
 </details>
 
@@ -135,9 +135,9 @@ aliases: [/menu]
 |---|:---|---:|
 | 90 | Homemade Flans |  4€|
 | 91 | Homemade Pies |  4.20€|
-| 92 | Teas, coffee|  1.20€|
+| 92 | Teas, coffee|  1.50€|
 | 93 | Cortados |  1.50€|
-| 94 | Milky coffee |  2€|
+| 94 | Milky coffee |  2.50€|
 
 </details>
 

@@ -14,14 +14,14 @@ aliases: [/menu]
 | 3 | Datteln mit Speck | 5€, 9€|
 | 4 | Padron paprika | 6€, 8€|
 | 5 | Gegrillter Käse | 5€, 9€|
-| 6 | Verschiedene Kroketten | 8€, 16€|
+| 6 | Verschiedene Kroketten | 9€, 18€|
 | 7 | Pilze oder Champignons mit Knoblauch | 10€|
 | 8 | Knoblauchgarnelen | 10€, 14€|
 | 9 | Panierte Pilze | 9€, 12€|
 | 10 | Gefüllte mit Almogrote Pilze | 4€, 8€|
-| 11 | Carambolas Kartoffeln| 5€|
-| 12 | Geschredderte Rindfleischknödel | 2€/u|
-| 13 | Süßkartoffel mit Kabeljau und Mojo montadito | 5€/u|
+| 11 | Carambolas Kartoffeln| 6€|
+| 12 | Geschredderte Rindfleischknödel | 3€/u|
+| 13 | Süßkartoffel mit Kabeljau und Mojo montadito | 6€/u|
 | 14 | Geräucherte Sardine montadito | 4.50€/u|
 | 15 | Runzlige kartoffeln mit Mojo | 5€, 8€|
 
@@ -33,7 +33,7 @@ aliases: [/menu]
 
 | # | Gericht | 1/2 portion, 1 portion |
 |---|:---|---:|
-| 17 | Salat des Hauses | 8.50€, 13€|
+| 17 | Salat des Hauses | 10€, 15€|
 | 18 | Tomaten, Sardellen und Avocado salat | 10€|
 | 19 | Salat der Saison | 10€|
 
@@ -110,20 +110,20 @@ aliases: [/menu]
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 70 | Fassbier |  caña 1.50€, 1906 3.50€|
-| 71 | Dorada pilsen o especial  | 1.50€|
-| 72 | Dorada sin o Tropical limón | 1.50€|
+| 70 | Fassbier |  caña 2€, 1906 3.50€|
+| 71 | Dorada pilsen o especial  | 1.80€|
+| 72 | Dorada sin o Tropical limón | 2€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Estrella de galicia 0,0 | 3.50€|
+| 76 | Estrella de galicia 0,0 | 2€|
 
 ## Andere Getränke
 
 | # | Produkt | Preis |
 |---|:---|---:|
-| 80 | Wasser |  1/2l 1.20€, 1l 2€|
-| 81 | Sprudel wasser|  1/2l 1.20€|
+| 80 | Wasser |  1/2l 1.50€, 1l 2.50€|
+| 81 | Sprudel wasser|  1/2l 2.50€|
 | 82 | Sprudels |  1.50€|
 
 </details>
@@ -135,9 +135,9 @@ aliases: [/menu]
 |---|:---|---:|
 | 90 | Hausgemachte Flans |  4€|
 | 91 | Homemade Pies |  4.20€|
-| 92 | Teas, coffee|  1.20€|
+| 92 | Teas, coffee|  1.50€|
 | 93 | Cortados |  1.50€|
-| 94 | Milky coffee |  2€|
+| 94 | Milky coffee |  2.50€|
 
 </details>
 

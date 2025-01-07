@@ -14,14 +14,14 @@ aliases: [/menu]
 | 3 | Dátiles con bacon | 5€, 9€|
 | 4 | Pimientos de padrón | 6€, 8€|
 | 5 | Queso asado | 5€, 9€|
-| 6 | Croquetas variadas | 8€, 16€|
+| 6 | Croquetas variadas | 9€, 18€|
 | 7 | Setas o champiñones al ajillo | 10€|
 | 8 | Gambas al ajillo | 10€, 14€|
 | 9 | Champiñones empanados | 9€, 12€|
 | 10 | Champiñones rellenos de almogrote | 4€, 8€|
-| 11 | Papas Carambola | 5€ |
-| 12 | Empanadas de carne mechada | 2.00€/u|
-| 13 | Montadito de bacalao | 5€/u|
+| 11 | Papas Carambola | 6€ |
+| 12 | Empanadas de carne mechada | 3.00€/u|
+| 13 | Montadito de bacalao | 6€/u|
 | 14 | Montadito de sardina ahumada | 4€/u|
 | 15 | Papas arrugadas con mojo | 5€, 8€|
 
@@ -32,7 +32,7 @@ aliases: [/menu]
 
 | # | Plato | 1/2 ración, 1 ración |
 |---|---|---:|
-| 17 | Ensalada de la casa | 9€, 14€|
+| 17 | Ensalada de la casa | 10€, 15€|
 | 18 | Ensalada de tomate, boquerones y aguacate | 10€|
 | 19 | Ensalada de temporada | 10€|
 
@@ -80,7 +80,7 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 | --- | ---|---:|
-| 40 | Vino tinto a granel  | 1/4 2.50€, 1/2 5€|
+| 40 | Vino tinto a granel  | 1/4 3€, 1/2 5€|
 | 41 | Viña Berneda joven  (Rioja) | copa 2.50€, 12€|
 | 42 | Marba joven (Tacoronte)  | copa 3€, 14€|
 | 43 | Marba barrica  (Tacoronte) | 19€|
@@ -106,13 +106,13 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|---|---:|
-| 70 | De grifo | caña 1.50€, 1906 3.50€|
-| 71 | Dorada pilsen o especial  | 1.50€|
-| 72 | Dorada sin o Tropical limón | 1.50€|
+| 70 | De grifo | caña 2€, 1906 3.50€|
+| 71 | Dorada pilsen o especial  | 1.80€|
+| 72 | Dorada sin o Tropical limón | 2€|
 | 73 | Dorada especial roja o Tropical 1924 | 2€|
 | 74 | 1906 Especial o Red Vintage | 3€|
 | 75 | 1906 Black coupage o Irish Red Ale | 3.50€|
-| 76 | Estrella de galicia 0,0 | 3.50€|
+| 76 | Estrella de galicia 0,0 | 2€|
 | 77 | Tacoa IPA (artesanal) | 4.50€|
 | 78 | Tacoa Surfer (artesanal) | 4.25€|
 | 79 | Tacoa Tajinaste (artesanal) | 4.50€|
@@ -121,9 +121,9 @@ aliases: [/menu]
 
 | # | Producto | Precio |
 |---|:---|---:|
-| 90 | Agua |  1/2l 1.20€, 1l 2€|
-| 91 | Agua con gas |  1/2l 1.20€|
-| 92 | Refrescos |  1.50€|
+| 90 | Agua |  1/2l 1.50€, 1l 2.50€|
+| 91 | Agua con gas |  1/2l 2.50€|
+| 92 | Refrescos |  2€|
 
 </details>
 
@@ -134,9 +134,9 @@ aliases: [/menu]
 |---|:---|---:|
 | 93 | Flanes caseros|  4€|
 | 94 | Tartas caseras|  4.20€|
-| 95 | Café solo o infusiones|  1.20€|
+| 95 | Café solo o infusiones|  1.50€|
 | 96 | Cortados |  1.50€|
-| 97 | Café con leche |  2€|
+| 97 | Café con leche |  2.50€|
 
 </details>
 

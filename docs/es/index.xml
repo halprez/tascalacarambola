@@ -1,18 +1,463 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>La Carambola</title>
-    <link>https://tascalacarambola.com/es/</link>
-    <description>Recent content on La Carambola</description>
-    <generator>Hugo</generator>
-    <language>es-ES</language>
-    <atom:link href="https://tascalacarambola.com/es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Menú</title>
-      <link>https://tascalacarambola.com/es/menu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tascalacarambola.com/es/menu/</guid>
-      <description>&lt;details open&gt;&#xA;&lt;summary&gt;Tapas&lt;/summary&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Plato&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;1/2 ración, 1 ración&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Quesos canarios&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;7€, 10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Pata asada&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;7€, 10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dátiles con bacon&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;5€, 9€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Pimientos de padrón&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;6€, 8€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Queso asado&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;5€, 9€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Croquetas variadas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€, 18€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Setas o champiñones al ajillo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gambas al ajillo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Champiñones empanados&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€, 12€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Champiñones rellenos de almogrote&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4€, 8€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Papas Carambola&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;6€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Empanadas de carne mechada&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;3.00€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Montadito de bacalao&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;6€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Montadito de sardina ahumada&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Papas arrugadas con mojo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;5€, 8€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;details open&gt;&#xA;&lt;summary&gt;Ensaladas&lt;/summary&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th&gt;Plato&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;1/2 ración, 1 ración&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17&lt;/td&gt;&#xA;          &lt;td&gt;Ensalada de la casa&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€, 15€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;Ensalada de tomate, boquerones y aguacate&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;19&lt;/td&gt;&#xA;          &lt;td&gt;Ensalada de temporada&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;details open&gt;&#xA;&lt;summary&gt;Tortillas y revueltos&lt;/summary&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th&gt;Plato&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;1/2 ración, 1 ración&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20&lt;/td&gt;&#xA;          &lt;td&gt;Revuelto de la casa&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;21&lt;/td&gt;&#xA;          &lt;td&gt;Revuelto de setas y gambas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;11€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;22&lt;/td&gt;&#xA;          &lt;td&gt;Tortilla canaria&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;          &lt;td&gt;Tortilla de ajo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;5€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;24&lt;/td&gt;&#xA;          &lt;td&gt;Tortilla española&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;8€, 10€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;25&lt;/td&gt;&#xA;          &lt;td&gt;Tortilla de embutidos&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€, 12€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;26&lt;/td&gt;&#xA;          &lt;td&gt;Tortilla de bacalao&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;details open&gt;&#xA;&lt;summary&gt;Carne y pescado&lt;/summary&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Plato&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;1/2 ración, 1 ración&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;30&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Bubango relleno de atún o carne&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;8.50€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;31&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Pimiento relleno de atún o carne&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;8.50€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;32&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Moussaka&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;8.50€/u&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;33&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Solomillo troceado al ajillo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;16€, 20€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;34&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Solomillo troceado a la Cocacola&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;17€, 22€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;35&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Solomillo troceado con gambas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;18€, 25€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;36&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Albóndigas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;37&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Carne en salsa&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;9€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;38&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Delicias de pollo al ajillo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;8€, 11€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;details open&gt;&#xA;&lt;summary&gt;Para beber&lt;/summary&gt;&#xA;&lt;h2 id=&#34;vinos&#34;&gt;Vinos&lt;/h2&gt;&#xA;&lt;center&gt;Tintos&lt;/center&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th&gt;Producto&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Precio&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;40&lt;/td&gt;&#xA;          &lt;td&gt;Vino tinto a granel&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1/4 3€, 1/2 5€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;41&lt;/td&gt;&#xA;          &lt;td&gt;Viña Berneda joven  (Rioja)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;copa 2.50€, 12€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;42&lt;/td&gt;&#xA;          &lt;td&gt;Marba joven (Tacoronte)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;copa 3€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;43&lt;/td&gt;&#xA;          &lt;td&gt;Marba barrica  (Tacoronte)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;19€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;44&lt;/td&gt;&#xA;          &lt;td&gt;Cantaperdices (Ribera del Duero)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;17€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;45&lt;/td&gt;&#xA;          &lt;td&gt;Viernes (Bierzo)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;17€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;46&lt;/td&gt;&#xA;          &lt;td&gt;Viña Berneda Crianza (Rioja)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;17€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;47&lt;/td&gt;&#xA;          &lt;td&gt;Cantaburros joven (Ribera del Duero)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;copa 3€, 14€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;48&lt;/td&gt;&#xA;          &lt;td&gt;Cantaburros barrica (Ribera del Duero)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;16€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;49&lt;/td&gt;&#xA;          &lt;td&gt;Cantaburros crianza (Ribera del Duero)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;18€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;center&gt;Blancos&lt;/center&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th&gt;Producto&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Precio&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;60&lt;/td&gt;&#xA;          &lt;td&gt;Vino blanco seco a granel&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1/4 2.50€, 1/2 5€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;61&lt;/td&gt;&#xA;          &lt;td&gt;Vino blanco afrutado a granel&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1/4 2.50€, 1/2 5€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;62&lt;/td&gt;&#xA;          &lt;td&gt;Brumas de Ayoza Afrutado&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;16€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;63&lt;/td&gt;&#xA;          &lt;td&gt;Brumas de Ayoza Seco&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;16€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;64&lt;/td&gt;&#xA;          &lt;td&gt;Ari Goitia Rueda Verdejo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;copa 2.50€, 11€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;65&lt;/td&gt;&#xA;          &lt;td&gt;Calius blanco seco&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;17€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;cervezas&#34;&gt;Cervezas&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th&gt;Producto&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Precio&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;70&lt;/td&gt;&#xA;          &lt;td&gt;De grifo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;caña 2€, 1906 3.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;71&lt;/td&gt;&#xA;          &lt;td&gt;Dorada pilsen o especial&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1.80€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;72&lt;/td&gt;&#xA;          &lt;td&gt;Dorada sin o Tropical limón&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;73&lt;/td&gt;&#xA;          &lt;td&gt;Dorada especial roja o Tropical 1924&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;74&lt;/td&gt;&#xA;          &lt;td&gt;1906 Especial o Red Vintage&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;3€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;75&lt;/td&gt;&#xA;          &lt;td&gt;1906 Black coupage o Irish Red Ale&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;3.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;76&lt;/td&gt;&#xA;          &lt;td&gt;Estrella de galicia 0,0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;77&lt;/td&gt;&#xA;          &lt;td&gt;Tacoa IPA (artesanal)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;78&lt;/td&gt;&#xA;          &lt;td&gt;Tacoa Surfer (artesanal)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4.25€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;79&lt;/td&gt;&#xA;          &lt;td&gt;Tacoa Tajinaste (artesanal)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;otras-bebidas&#34;&gt;Otras bebidas&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Producto&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Precio&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;90&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Agua&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1/2l 1.50€, 1l 2.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;91&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Agua con gas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1/2l 2.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;92&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Refrescos&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;details open&gt;&#xA;&lt;summary&gt;Postres y cafés&lt;/summary&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;#&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Producto&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Precio&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;93&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Flanes caseros&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;94&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Tartas caseras&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;4.20€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;95&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Café solo o infusiones&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;96&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Cortados&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;97&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Café con leche&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2.50€&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/details&gt;&#xA;&lt;p style=&#34;text-align:center;&#34;&gt;Impuestos incluidos&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>La Carambola</title><link>https://tascalacarambola.com/es/</link><description>Recent content on La Carambola</description><generator>Hugo</generator><language>es-ES</language><atom:link href="https://tascalacarambola.com/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Menú</title><link>https://tascalacarambola.com/es/menu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tascalacarambola.com/es/menu/</guid><description>&lt;details open>
+&lt;summary>Tapas&lt;/summary>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th style="text-align: left">Plato&lt;/th>
+ &lt;th style="text-align: right">1/2 ración, 1 ración&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>1&lt;/td>
+ &lt;td style="text-align: left">Quesos canarios&lt;/td>
+ &lt;td style="text-align: right">7€, 10€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2&lt;/td>
+ &lt;td style="text-align: left">Pata asada&lt;/td>
+ &lt;td style="text-align: right">7€, 10€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>3&lt;/td>
+ &lt;td style="text-align: left">Dátiles con bacon&lt;/td>
+ &lt;td style="text-align: right">5€, 9€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>4&lt;/td>
+ &lt;td style="text-align: left">Pimientos de padrón&lt;/td>
+ &lt;td style="text-align: right">6€, 8€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>5&lt;/td>
+ &lt;td style="text-align: left">Queso asado&lt;/td>
+ &lt;td style="text-align: right">5€, 9€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6&lt;/td>
+ &lt;td style="text-align: left">Croquetas variadas&lt;/td>
+ &lt;td style="text-align: right">9€, 18€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>7&lt;/td>
+ &lt;td style="text-align: left">Setas o champiñones al ajillo&lt;/td>
+ &lt;td style="text-align: right">10€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8&lt;/td>
+ &lt;td style="text-align: left">Gambas al ajillo&lt;/td>
+ &lt;td style="text-align: right">10€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>9&lt;/td>
+ &lt;td style="text-align: left">Champiñones empanados&lt;/td>
+ &lt;td style="text-align: right">9€, 12€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10&lt;/td>
+ &lt;td style="text-align: left">Champiñones rellenos de almogrote&lt;/td>
+ &lt;td style="text-align: right">4€, 8€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>11&lt;/td>
+ &lt;td style="text-align: left">Papas Carambola&lt;/td>
+ &lt;td style="text-align: right">6€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>12&lt;/td>
+ &lt;td style="text-align: left">Empanadas de carne mechada&lt;/td>
+ &lt;td style="text-align: right">3.00€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>13&lt;/td>
+ &lt;td style="text-align: left">Montadito de bacalao&lt;/td>
+ &lt;td style="text-align: right">6€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>14&lt;/td>
+ &lt;td style="text-align: left">Montadito de sardina ahumada&lt;/td>
+ &lt;td style="text-align: right">4€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>15&lt;/td>
+ &lt;td style="text-align: left">Papas arrugadas con mojo&lt;/td>
+ &lt;td style="text-align: right">5€, 8€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;details open>
+&lt;summary>Ensaladas&lt;/summary>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th>Plato&lt;/th>
+ &lt;th style="text-align: right">1/2 ración, 1 ración&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>17&lt;/td>
+ &lt;td>Ensalada de la casa&lt;/td>
+ &lt;td style="text-align: right">10€, 15€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>18&lt;/td>
+ &lt;td>Ensalada de tomate, boquerones y aguacate&lt;/td>
+ &lt;td style="text-align: right">10€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>19&lt;/td>
+ &lt;td>Ensalada de temporada&lt;/td>
+ &lt;td style="text-align: right">10€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;details open>
+&lt;summary>Tortillas y revueltos&lt;/summary>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th>Plato&lt;/th>
+ &lt;th style="text-align: right">1/2 ración, 1 ración&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>20&lt;/td>
+ &lt;td>Revuelto de la casa&lt;/td>
+ &lt;td style="text-align: right">9€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>21&lt;/td>
+ &lt;td>Revuelto de setas y gambas&lt;/td>
+ &lt;td style="text-align: right">11€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>22&lt;/td>
+ &lt;td>Tortilla canaria&lt;/td>
+ &lt;td style="text-align: right">10€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>23&lt;/td>
+ &lt;td>Tortilla de ajo&lt;/td>
+ &lt;td style="text-align: right">5€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>24&lt;/td>
+ &lt;td>Tortilla española&lt;/td>
+ &lt;td style="text-align: right">8€, 10€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>25&lt;/td>
+ &lt;td>Tortilla de embutidos&lt;/td>
+ &lt;td style="text-align: right">9€, 12€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>26&lt;/td>
+ &lt;td>Tortilla de bacalao&lt;/td>
+ &lt;td style="text-align: right">10€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;details open>
+&lt;summary>Carne y pescado&lt;/summary>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th style="text-align: left">Plato&lt;/th>
+ &lt;th style="text-align: right">1/2 ración, 1 ración&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>30&lt;/td>
+ &lt;td style="text-align: left">Bubango relleno de atún o carne&lt;/td>
+ &lt;td style="text-align: right">8.50€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>31&lt;/td>
+ &lt;td style="text-align: left">Pimiento relleno de atún o carne&lt;/td>
+ &lt;td style="text-align: right">8.50€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>32&lt;/td>
+ &lt;td style="text-align: left">Moussaka&lt;/td>
+ &lt;td style="text-align: right">8.50€/u&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>33&lt;/td>
+ &lt;td style="text-align: left">Solomillo troceado al ajillo&lt;/td>
+ &lt;td style="text-align: right">16€, 20€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>34&lt;/td>
+ &lt;td style="text-align: left">Solomillo troceado a la Cocacola&lt;/td>
+ &lt;td style="text-align: right">17€, 22€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>35&lt;/td>
+ &lt;td style="text-align: left">Solomillo troceado con gambas&lt;/td>
+ &lt;td style="text-align: right">18€, 25€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>36&lt;/td>
+ &lt;td style="text-align: left">Albóndigas&lt;/td>
+ &lt;td style="text-align: right">9€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>37&lt;/td>
+ &lt;td style="text-align: left">Carne en salsa&lt;/td>
+ &lt;td style="text-align: right">9€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>38&lt;/td>
+ &lt;td style="text-align: left">Delicias de pollo al ajillo&lt;/td>
+ &lt;td style="text-align: right">8€, 11€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;details open>
+&lt;summary>Para beber&lt;/summary>
+&lt;h2 id="vinos">Vinos&lt;/h2>
+&lt;center>Tintos&lt;/center>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th>Producto&lt;/th>
+ &lt;th style="text-align: right">Precio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>40&lt;/td>
+ &lt;td>Vino tinto a granel&lt;/td>
+ &lt;td style="text-align: right">1/4 3€, 1/2 5€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>41&lt;/td>
+ &lt;td>Viña Berneda joven (Rioja)&lt;/td>
+ &lt;td style="text-align: right">copa 2.50€, 12€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>42&lt;/td>
+ &lt;td>Marba joven (Tacoronte)&lt;/td>
+ &lt;td style="text-align: right">copa 3€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>43&lt;/td>
+ &lt;td>Marba barrica (Tacoronte)&lt;/td>
+ &lt;td style="text-align: right">19€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>44&lt;/td>
+ &lt;td>Cantaperdices (Ribera del Duero)&lt;/td>
+ &lt;td style="text-align: right">17€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>45&lt;/td>
+ &lt;td>Viernes (Bierzo)&lt;/td>
+ &lt;td style="text-align: right">17€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>46&lt;/td>
+ &lt;td>Viña Berneda Crianza (Rioja)&lt;/td>
+ &lt;td style="text-align: right">17€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>47&lt;/td>
+ &lt;td>Cantaburros joven (Ribera del Duero)&lt;/td>
+ &lt;td style="text-align: right">copa 3€, 14€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>48&lt;/td>
+ &lt;td>Cantaburros barrica (Ribera del Duero)&lt;/td>
+ &lt;td style="text-align: right">16€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>49&lt;/td>
+ &lt;td>Cantaburros crianza (Ribera del Duero)&lt;/td>
+ &lt;td style="text-align: right">18€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;center>Blancos&lt;/center>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th>Producto&lt;/th>
+ &lt;th style="text-align: right">Precio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>60&lt;/td>
+ &lt;td>Vino blanco seco a granel&lt;/td>
+ &lt;td style="text-align: right">1/4 2.50€, 1/2 5€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>61&lt;/td>
+ &lt;td>Vino blanco afrutado a granel&lt;/td>
+ &lt;td style="text-align: right">1/4 2.50€, 1/2 5€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>62&lt;/td>
+ &lt;td>Brumas de Ayoza Afrutado&lt;/td>
+ &lt;td style="text-align: right">16€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>63&lt;/td>
+ &lt;td>Brumas de Ayoza Seco&lt;/td>
+ &lt;td style="text-align: right">16€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>64&lt;/td>
+ &lt;td>Ari Goitia Rueda Verdejo&lt;/td>
+ &lt;td style="text-align: right">copa 2.50€, 11€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>65&lt;/td>
+ &lt;td>Calius blanco seco&lt;/td>
+ &lt;td style="text-align: right">17€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="cervezas">Cervezas&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th>Producto&lt;/th>
+ &lt;th style="text-align: right">Precio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>70&lt;/td>
+ &lt;td>De grifo&lt;/td>
+ &lt;td style="text-align: right">caña 2€, 1906 3.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>71&lt;/td>
+ &lt;td>Dorada pilsen o especial&lt;/td>
+ &lt;td style="text-align: right">1.80€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>72&lt;/td>
+ &lt;td>Dorada sin o Tropical limón&lt;/td>
+ &lt;td style="text-align: right">2€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>73&lt;/td>
+ &lt;td>Dorada especial roja o Tropical 1924&lt;/td>
+ &lt;td style="text-align: right">2€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>74&lt;/td>
+ &lt;td>1906 Especial o Red Vintage&lt;/td>
+ &lt;td style="text-align: right">3€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>75&lt;/td>
+ &lt;td>1906 Black coupage o Irish Red Ale&lt;/td>
+ &lt;td style="text-align: right">3.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>76&lt;/td>
+ &lt;td>Estrella de galicia 0,0&lt;/td>
+ &lt;td style="text-align: right">2€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>77&lt;/td>
+ &lt;td>Tacoa IPA (artesanal)&lt;/td>
+ &lt;td style="text-align: right">4.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>78&lt;/td>
+ &lt;td>Tacoa Surfer (artesanal)&lt;/td>
+ &lt;td style="text-align: right">4.25€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>79&lt;/td>
+ &lt;td>Tacoa Tajinaste (artesanal)&lt;/td>
+ &lt;td style="text-align: right">4.50€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="otras-bebidas">Otras bebidas&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th style="text-align: left">Producto&lt;/th>
+ &lt;th style="text-align: right">Precio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>90&lt;/td>
+ &lt;td style="text-align: left">Agua&lt;/td>
+ &lt;td style="text-align: right">1/2l 1.50€, 1l 2.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>91&lt;/td>
+ &lt;td style="text-align: left">Agua con gas&lt;/td>
+ &lt;td style="text-align: right">1/2l 2.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>92&lt;/td>
+ &lt;td style="text-align: left">Refrescos&lt;/td>
+ &lt;td style="text-align: right">2€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;details open>
+&lt;summary>Postres y cafés&lt;/summary>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>#&lt;/th>
+ &lt;th style="text-align: left">Producto&lt;/th>
+ &lt;th style="text-align: right">Precio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>93&lt;/td>
+ &lt;td style="text-align: left">Flanes caseros&lt;/td>
+ &lt;td style="text-align: right">4€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>94&lt;/td>
+ &lt;td style="text-align: left">Tartas caseras&lt;/td>
+ &lt;td style="text-align: right">4.20€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>95&lt;/td>
+ &lt;td style="text-align: left">Café solo o infusiones&lt;/td>
+ &lt;td style="text-align: right">1.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>96&lt;/td>
+ &lt;td style="text-align: left">Cortados&lt;/td>
+ &lt;td style="text-align: right">1.50€&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>97&lt;/td>
+ &lt;td style="text-align: left">Café con leche&lt;/td>
+ &lt;td style="text-align: right">2.50€&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/details>
+&lt;p style="text-align:center;">Impuestos incluidos&lt;/p></description></item></channel></rss>

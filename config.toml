@@ -92,7 +92,7 @@ languageName = "Español"
 languageCode = "es-ES"
 
 [languages.es.params]
-keywords = "menu, tasca, restaurante, cena, el sauzal, tenerife"
+keywords = "menu, tasca, restaurante, cena, el sauzal, tenerife, cena, tapas, tortilla"
 
 [[languages.es.menu.main]]
 name = "Menú"
@@ -111,7 +111,7 @@ languageName = "English"
 languageCode = "en-UK"
 
 [languages.en.params]
-keywords = "menu, tasca, restaurant, abendessen, el sauzal, teneriffa"
+keywords = "menu, tasca, restaurant, abendessen, el sauzal, Tenerife, dinner, tapas, tortilla"
 
 [[languages.en.menu.main]]
 name = "Menu"
@@ -130,7 +130,7 @@ languageName = "Deutsche"
 languageCode = "de-DE"
 
 [languages.de.params]
-keywords = ""
+keywords = "menu, tasca, restaurant, abendessen, el sauzal, Teneriffa, dinner, tapas, tortilla"
 
 [[languages.de.menu.main]]
 name = "Speisekarte"

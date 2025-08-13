@@ -1,2 +1,56 @@
-<!doctype html><html><head><title>https://tascalacarambola.com/en/menu/</title>
-<link rel=canonical href=https://tascalacarambola.com/en/menu/><meta name=robots content="noindex"><meta charset=utf-8><noscript><meta http-equiv=refresh content="0; url=https://tascalacarambola.com/en/menu/"></noscript><script>(function(){if(window.location.pathname!=="/"&&window.location.pathname!=="/menu/"){window.location.replace("https://tascalacarambola.com/en/menu/");return}var t=function(){var e,t,n=window.navigator,s=["language","browserLanguage","systemLanguage","userLanguage"];if(Array.isArray(n.languages))for(e=0;e<n.languages.length;e++)if(t=n.languages[e],t&&t.length)return t;for(e=0;e<s.length;e++)if(t=n[s[e]],t&&t.length)return t;return"en"},e=t();e.indexOf("en")!==-1?window.location.replace("/en".concat(window.location.pathname)):e.indexOf("de")!==-1?window.location.replace("/de".concat(window.location.pathname)):window.location.replace("/es".concat(window.location.pathname))})()</script></head><body><h1>Redireccion</h1><p>Deberia redirigir automaticamente, de lo contrario <a href=https://tascalacarambola.com/en/menu/>click here</a>.</p></body></html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>https://tascalacarambola.com/en/menu/</title>
+    <link rel="canonical" href="https://tascalacarambola.com/en/menu/"/>
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8"/>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=https://tascalacarambola.com/en/menu/"/>
+    </noscript>
+    <script>
+      ;(function () {
+        
+        if (window.location.pathname !== '/' && window.location.pathname !== '/menu/' ) {
+          window.location.replace('https:\/\/tascalacarambola.com\/en\/menu\/')
+          return
+        } 
+
+        var getFirstBrowserLanguage = function () {
+          var nav = window.navigator,
+          browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],i,language
+
+          if (Array.isArray(nav.languages)) {
+            for (i = 0; i < nav.languages.length; i++) {
+              language = nav.languages[i]
+              if (language && language.length) {
+                return language
+              }
+            }
+          }
+          for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
+            language = nav[browserLanguagePropertyKeys[i]]
+            if (language && language.length) {
+              return language
+            }
+          }
+          return 'en'
+        }
+
+        var preferLang = getFirstBrowserLanguage()
+
+        if (preferLang.indexOf('en') !== -1) {
+            window.location.replace('/en'.concat (window.location.pathname))
+        } else if (preferLang.indexOf('de') !== -1) {
+            window.location.replace('/de'.concat (window.location.pathname))
+        } else {
+            window.location.replace('/es'.concat (window.location.pathname))
+        }
+    })()
+    </script>
+</head>
+<body>
+<h1>Redireccion</h1>
+<p>Deberia redirigir automaticamente, de lo contrario  <a href="https://tascalacarambola.com/en/menu/">click here</a>.</p>
+</body>
+</html>

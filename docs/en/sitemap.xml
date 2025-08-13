@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://tascalacarambola.com/en/</loc><xhtml:link rel="alternate" hreflang="es-ES" href="https://tascalacarambola.com/es/"/><xhtml:link rel="alternate" hreflang="de-DE" href="https://tascalacarambola.com/de/"/><xhtml:link rel="alternate" hreflang="en-UK" href="https://tascalacarambola.com/en/"/></url><url><loc>https://tascalacarambola.com/en/menu/</loc><xhtml:link rel="alternate" hreflang="es-ES" href="https://tascalacarambola.com/es/menu/"/><xhtml:link rel="alternate" hreflang="de-DE" href="https://tascalacarambola.com/de/menu/"/><xhtml:link rel="alternate" hreflang="en-UK" href="https://tascalacarambola.com/en/menu/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tascalacarambola.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="https://tascalacarambola.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://tascalacarambola.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-UK"
+                href="https://tascalacarambola.com/en/"
+                />
+  </url><url>
+    <loc>https://tascalacarambola.com/en/menu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="https://tascalacarambola.com/es/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://tascalacarambola.com/de/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-UK"
+                href="https://tascalacarambola.com/en/menu/"
+                />
+  </url>
+</urlset>

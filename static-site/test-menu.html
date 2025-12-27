@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Menu Test</title>
+</head>
+<body>
+    <h1>Menu Loading Test</h1>
+    <div id="output"></div>
+    <div id="menu-container"></div>
+
+    <script>
+        const output = document.getElementById('output');
+
+        function log(msg) {
+            console.log(msg);
+            output.innerHTML += '<p>' + msg + '</p>';
+        }
+
+        log('Starting test...');
+
+        // Simple CSV parser
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',');
+            log('Headers: ' + headers.join(', '));
+
+            return lines.slice(1).map(line => {
+                const values = parseCSVLine(line);
+                const row = {};
+                headers.forEach((header, index) => {
+                    row[header] = values[index] || '';
+                });
+                return row;
+            });
+        }
+
+        // Handle CSV line parsing with proper quote handling
+        function parseCSVLine(line) {
+            const values = [];
+            let current = '';
+            let inQuotes = false;
+
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                const nextChar = line[i + 1];
+
+                if (char === '"') {
+                    if (inQuotes && nextChar === '"') {
+                        current += '"';
+                        i++; // Skip next quote
+                    } else {
+                        inQuotes = !inQuotes;
+                    }
+                } else if (char === ',' && !inQuotes) {
+                    values.push(current);
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            values.push(current); // Add last value
+            return values;
+        }
+
+        // Convert CSV data to menu structure
+        function csvToMenuStructure(csvData) {
+            const categoriesMap = new Map();
+            log('Processing ' + csvData.length + ' rows');
+
+            csvData.forEach(row => {
+                const categoryKey = row.category_es.toLowerCase()
+                    .replace(/\s+/g, '-')
+                    .replace(/ñ/g, 'n')
+                    .replace(/á/g, 'a')
+                    .replace(/é/g, 'e')
+                    .replace(/í/g, 'i')
+                    .replace(/ó/g, 'o')
+                    .replace(/ú/g, 'u');
+
+                if (!categoriesMap.has(categoryKey)) {
+                    categoriesMap.set(categoryKey, {
+                        id: categoryKey,
+                        names: {
+                            es: row.category_es,
+                            en: row.category_en,
+                            de: row.category_de
+                        },
+                        items: []
+                    });
+                }
+
+                const prices = [row.price1, row.price2, row.price3].filter(p => p && p.trim() !== '');
+
+                categoriesMap.get(categoryKey).items.push({
+                    id: parseInt(row.id),
+                    names: {
+                        es: row.name_es,
+                        en: row.name_en,
+                        de: row.name_de
+                    },
+                    prices: prices
+                });
+            });
+
+            log('Created ' + categoriesMap.size + ' categories');
+            return Array.from(categoriesMap.values());
+        }
+
+        function renderMenu(categories) {
+            log('Rendering ' + categories.length + ' categories');
+            return categories.map(category => `
+            <details open>
+              <summary>${category.names.es}</summary>
+              <table border="1">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>${category.names.es}</th>
+                    <th>Precio</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${category.items.map(item => `
+                    <tr>
+                      <td>${item.id}</td>
+                      <td>${item.names.es}</td>
+                      <td>${item.prices.join(', ')}</td>
+                    </tr>
+                  `).join('')}
+                </tbody>
+              </table>
+            </details>
+          `).join('');
+        }
+
+        log('Fetching menu.csv...');
+        fetch('./data/menu.csv')
+            .then(response => {
+                log('Response status: ' + response.status);
+                return response.text();
+            })
+            .then(csvText => {
+                log('CSV loaded, length: ' + csvText.length);
+                const csvData = parseCSV(csvText);
+                log('Parsed ' + csvData.length + ' items');
+                const categories = csvToMenuStructure(csvData);
+                const menuContainer = document.getElementById('menu-container');
+                menuContainer.innerHTML = renderMenu(categories);
+                log('Menu rendered successfully!');
+            })
+            .catch(error => {
+                log('ERROR: ' + error.message);
+                console.error('Error loading menu:', error);
+            });
+    </script>
+</body>
+</html>

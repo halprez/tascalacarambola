@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="">
+    <meta name="description" content="Reservas - Tasca La Carambola" />
+    <meta name="keywords" content="reservas, tasca, restaurante, el sauzal, tenerife" />
+    <meta name="robots" content="noodp" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="canonical" href="https://tascalacarambola.com/reservas/" />
+
+    <title>Reservas - La Carambola</title>
+
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+    <link rel="shortcut icon" href="./favicon.ico">
+
+    <meta itemprop="name" content="Reservas">
+    <meta itemprop="description" content="Reservas de La Carambola">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Reservas - La Carambola">
+    <meta name="twitter:description" content="Reservas de La Carambola">
+
+    <style>
+        /* Iframe container styles */
+        .iframe-container {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 60px);
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        .iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Fallback message */
+        .iframe-fallback {
+            display: none;
+            padding: 40px 20px;
+            text-align: center;
+            background-color: var(--background-secondary);
+            border-radius: 8px;
+            margin: 20px;
+        }
+
+        .iframe-fallback h2 {
+            margin-bottom: 20px;
+        }
+
+        .iframe-fallback a {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: var(--color-variant);
+            color: var(--background);
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .iframe-fallback a:hover {
+            opacity: 0.8;
+        }
+
+        /* Loading spinner */
+        .loading-spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .spinner {
+            border: 4px solid var(--border-color);
+            border-top: 4px solid var(--color-variant);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Hide content div for iframe page */
+        .content {
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+
+        .post {
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <span class="header__inner">
+                <a href="./" style="text-decoration: none">
+                    <div class="logo">
+                        <p style="font-family: Lucida Sans">I</p>
+                        <span class="logo__cursor">
+                            <p>♥</p>
+                        </span>
+                        <span class="logo__text"></span>
+                        La Carambola
+                    </div>
+                </a>
+
+                <span class="header__right">
+                    <nav class="menu">
+                        <ul class="menu__inner">
+                            <li>
+                                <a href="./menu.html" data-i18n="menu-title">Menú</a>
+                            </li>
+                            <li>
+                                <a href="./reservas.html" class="active" data-i18n="reservations">Reservas</a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <div id="language-switcher"></div>
+
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+
+                    <span class="menu-trigger">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M0 0h24v24H0z" fill="none" />
+                            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+                        </svg>
+                    </span>
+                </span>
+            </span>
+        </header>
+
+        <!-- Floating Logo -->
+        <div class="theme-logo theme-logo-rolling">
+            <img src="./images/logo-white.png" alt="La Carambola" class="logo-dark-theme">
+            <img src="./images/logo-black.png" alt="La Carambola" class="logo-light-theme">
+        </div>
+
+        <!-- Main Content -->
+        <div class="content">
+            <main class="post">
+                <div class="iframe-container">
+                    <div class="loading-spinner">
+                        <div class="spinner"></div>
+                        <p data-i18n="loading">Cargando reservas...</p>
+                    </div>
+                    <iframe
+                        id="reservas-iframe"
+                        src=""
+                        title="Sistema de Reservas"
+                        allow="geolocation; payment"
+                        loading="eager">
+                    </iframe>
+                </div>
+
+                <!-- Fallback for when iframe is blocked -->
+                <div class="iframe-fallback" id="iframe-fallback">
+                    <h2 data-i18n="reservations">Reservas</h2>
+                    <p>No podemos mostrar el sistema de reservas aquí.</p>
+                    <p>Por favor, visita nuestra página de reservas directamente:</p>
+                    <a id="fallback-link" href="https://reservas.tascalacarambola.com" target="_blank" rel="noopener noreferrer">
+                        Ir a Reservas →
+                    </a>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="./assets/js/main.js"></script>
+    <script>
+        // Function to update iframe URL with current language
+        function updateIframeLanguage() {
+            const iframe = document.getElementById('reservas-iframe');
+            const fallbackLink = document.getElementById('fallback-link');
+            const currentLang = localStorage.getItem('selectedLanguage') || 'es';
+            const baseUrl = 'https://reservas.tascalacarambola.com';
+            const urlWithLang = `${baseUrl}?lang=${currentLang}`;
+
+            // Set iframe src with language parameter
+            iframe.src = urlWithLang;
+
+            // Also update fallback link
+            if (fallbackLink) {
+                fallbackLink.href = urlWithLang;
+            }
+        }
+
+        // Set initial iframe URL
+        updateIframeLanguage();
+
+        // Update iframe when language changes
+        const originalOnLanguageChange = window.onLanguageChange;
+        window.onLanguageChange = function(lang) {
+            if (originalOnLanguageChange) {
+                originalOnLanguageChange(lang);
+            }
+            updateIframeLanguage();
+        };
+
+        // Check if iframe loads successfully
+        const iframe = document.getElementById('reservas-iframe');
+        const fallback = document.getElementById('iframe-fallback');
+        const spinner = document.querySelector('.loading-spinner');
+
+        let iframeLoaded = false;
+
+        iframe.addEventListener('load', function() {
+            iframeLoaded = true;
+            spinner.style.display = 'none';
+        });
+
+        // If iframe doesn't load in 5 seconds, show fallback
+        setTimeout(function() {
+            if (!iframeLoaded) {
+                spinner.style.display = 'none';
+                fallback.style.display = 'block';
+                iframe.style.display = 'none';
+            }
+        }, 5000);
+
+        // Try to detect if iframe is blocked
+        iframe.addEventListener('error', function() {
+            spinner.style.display = 'none';
+            fallback.style.display = 'block';
+            iframe.style.display = 'none';
+        });
+    </script>
+</body>
+
+</html>

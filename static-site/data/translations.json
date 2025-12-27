@@ -1,0 +1,70 @@
+{
+    "translations": {
+        "site-title": {
+            "es": "La Carambola",
+            "en": "La Carambola",
+            "de": "La Carambola"
+        },
+        "site-subtitle": {
+            "es": "Tasca",
+            "en": "Tasca",
+            "de": "Tasca"
+        },
+        "hours": {
+            "es": "Horario: De Lun-Vie, de 7pm a 0am. La cocina cierra a las 23:00pm.",
+            "en": "Hours: Mon-Fri, 7pm to midnight. Kitchen closes at 11:00pm.",
+            "de": "Öffnungszeiten: Mo-Fr, 19:00 bis Mitternacht. Küche schließt um 23:00 Uhr."
+        },
+        "holiday-message": {
+            "es": "Estamos de vacaciones hasta el 6 de enero! Felices Fiestas! Nos vemos el 7 de enero!",
+            "en": "We are closed until January 6th! Happy Holidays! See you on January 7th!",
+            "de": "Wir sind bis zum 6. Januar geschlossen! Frohe Festtage! Wir sehen uns am 7. Januar!"
+        },
+        "menu-title": {
+            "es": "Menú",
+            "en": "Menu",
+            "de": "Speisekarte"
+        },
+        "reservations": {
+            "es": "Reservas",
+            "en": "Reservations",
+            "de": "Reservierungen"
+        },
+        "reserve-button": {
+            "es": "Reserva tu mesa",
+            "en": "Reserve your table",
+            "de": "Tisch reservieren"
+        },
+        "contact": {
+            "es": "Contáctanos:",
+            "en": "Contact us:",
+            "de": "Kontaktiere uns:"
+        },
+        "also-available": {
+            "es": "También disponible en",
+            "en": "Also available in",
+            "de": "Auch verfügbar in"
+        },
+        "taxes-included": {
+            "es": "Impuestos incluidos",
+            "en": "Taxes included",
+            "de": "Steuern inbegriffen"
+        },
+        "half-ration": {
+            "es": "1/2 ración",
+            "en": "1/2 portion",
+            "de": "1/2 Portion"
+        },
+        "full-ration": {
+            "es": "1 ración",
+            "en": "1 portion",
+            "de": "1 Portion"
+        },
+        "prices": {
+            "es": "Precio",
+            "en": "Price",
+            "de": "Preis"
+        }
+    },
+    "notes": "Edit the translations above to change any static text on the site. These strings are used in assets/js/main.js in the getTranslation() function."
+}

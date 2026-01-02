@@ -107,8 +107,28 @@ function setupLanguageSwitcher() {
     document.querySelectorAll('[data-lang-button]').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.preventDefault();
-            setLanguage(btn.dataset.langButton);
+
+            // On mobile (when other buttons are hidden), toggle dropdown
+            if (window.innerWidth <= 684) {
+                if (btn.classList.contains('active')) {
+                    // Toggle the dropdown
+                    switcher.classList.toggle('open');
+                } else {
+                    // Select language and close dropdown
+                    setLanguage(btn.dataset.langButton);
+                    switcher.classList.remove('open');
+                }
+            } else {
+                setLanguage(btn.dataset.langButton);
+            }
         });
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', (e) => {
+        if (window.innerWidth <= 684 && !switcher.contains(e.target)) {
+            switcher.classList.remove('open');
+        }
     });
 }
 

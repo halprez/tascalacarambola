@@ -278,7 +278,7 @@ function renderMenu(categories) {
             <tr>
               <td>${item.id}</td>
               <td>${getLocalizedName(item.names)}</td>
-              <td style="text-align: right">${item.prices.join(' / ')}</td>
+              <td class="price-cell">${item.prices.join('<br>')}</td>
             </tr>
           `).join('')}
         </tbody>
@@ -375,39 +375,65 @@ function initMenuScrollSpy() {
 function adjustMenuItemFontSizes() {
     const menuItems = document.querySelectorAll('.menu-table tbody td:nth-child(2)');
 
-    menuItems.forEach(item => {
-        // Reset font size first
-        item.style.fontSize = '';
+    menuItems.forEach((item) => {
+        // Create a hidden span to measure the actual text width
+        const measureSpan = document.createElement('span');
+        measureSpan.style.visibility = 'hidden';
+        measureSpan.style.position = 'absolute';
+        measureSpan.style.whiteSpace = 'nowrap';
+        measureSpan.textContent = item.textContent.trim();
 
-        // Check if text is wrapping (height > single line height)
-        const lineHeight = parseFloat(window.getComputedStyle(item).lineHeight);
-        const actualHeight = item.clientHeight;
+        // Copy font styles
+        const styles = window.getComputedStyle(item);
+        measureSpan.style.fontSize = styles.fontSize;
+        measureSpan.style.fontFamily = styles.fontFamily;
+        measureSpan.style.fontWeight = styles.fontWeight;
 
-        // If height is greater than one line, reduce font size
-        if (actualHeight > lineHeight * 1.5) {
-            let fontSize = parseFloat(window.getComputedStyle(item).fontSize);
+        document.body.appendChild(measureSpan);
 
-            // Reduce font size until it fits in one line or reaches minimum
-            while (item.clientHeight > lineHeight * 1.5 && fontSize > 10) {
+        // Get the available width for the dish name
+        const availableWidth = item.offsetWidth - 10;
+        let textWidth = measureSpan.offsetWidth;
+        let fontSize = parseFloat(styles.fontSize);
+        const minFontSize = 12;
+
+        // If text is wider than available space, reduce font
+        if (textWidth > availableWidth) {
+            while (textWidth > availableWidth && fontSize > minFontSize) {
                 fontSize -= 0.5;
-                item.style.fontSize = fontSize + 'px';
+                measureSpan.style.fontSize = fontSize + 'px';
+                textWidth = measureSpan.offsetWidth;
             }
+
+            // Apply the reduced font size to the actual cell
+            item.style.fontSize = fontSize + 'px';
         }
+
+        // Clean up
+        document.body.removeChild(measureSpan);
     });
 }
 
-// Call on window resize
-window.addEventListener('resize', adjustMenuItemFontSizes);
+// Call on window resize with debounce
+let resizeTimeout;
+window.addEventListener('resize', () => {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(adjustMenuItemFontSizes, 250);
+});
 
 // Initialize scroll spy and font adjustment after menu loads
 const originalLoadAndRenderMenu = loadAndRenderMenu;
 loadAndRenderMenu = function() {
     originalLoadAndRenderMenu();
-    // Wait for DOM to update
+    // Immediate call after next render
     setTimeout(() => {
         initMenuScrollSpy();
         adjustMenuItemFontSizes();
     }, 100);
+    // Also call again after a delay to catch any late rendering
+    setTimeout(() => {
+        adjustMenuItemFontSizes();
+    }, 500);
 };
 
 // Mobile menu toggle

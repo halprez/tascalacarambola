@@ -1,0 +1,16 @@
+# robots.txt for tascalacarambola.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tascalacarambola.com/sitemap.xml
+
+# Disallow temporary or test pages
+Disallow: /test-menu.html
+
+# Disallow documentation files
+Disallow: /*.md$
+Disallow: /*SUMMARY.md$
+Disallow: /*GUIDE.md$
+Disallow: /*CHECKLIST.md$

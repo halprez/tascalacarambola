@@ -12,10 +12,10 @@
         },
         "hours": {
             "es": "Horario: De Lun-Vie, de 7pm a 0am. La cocina cierra a las 23:00pm.",
-            "en": "Hours: Mon-Fri, 7pm to midnight. Kitchen closes at 11:00pm.",
+            "en": "Opening Hours: Mon-Fri, 7pm to midnight. Kitchen closes at 11:00pm.",
             "de": "Öffnungszeiten: Mo-Fr, 19:00 bis Mitternacht. Küche schließt um 23:00 Uhr."
         },
-        "holiday-message": {
+        "banner-message": {
             "es": "Estamos de vacaciones hasta el 6 de enero! Felices Fiestas! Nos vemos el 7 de enero!",
             "en": "We are closed until January 6th! Happy Holidays! See you on January 7th!",
             "de": "Wir sind bis zum 6. Januar geschlossen! Frohe Festtage! Wir sehen uns am 7. Januar!"
@@ -32,7 +32,7 @@
         },
         "reserve-button": {
             "es": "Reserva tu mesa",
-            "en": "Reserve your table",
+            "en": "Book your table",
             "de": "Tisch reservieren"
         },
         "contact": {

@@ -61,7 +61,7 @@ Edit `assets/js/main.js` and find the `getTranslation()` function. Update any of
 - `site-title` - Restaurant name
 - `site-subtitle` - "Tasca"
 - `hours` - Opening hours
-- `holiday-message` - Any banner message
+- `banner-message` - Any banner message
 - etc.
 
 ## Features Implemented

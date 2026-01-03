@@ -1,6 +1,6 @@
 id,category_es,category_en,category_de,name_es,name_en,name_de,price1,price2,price3
 1,Tapas,Tapas,Tapas,Quesos canarios,Canarian Cheeses,Kanarische Käsesorten,7€,10€,
-2,Tapas,Tapas,Tapas,Pata asada,Roasted Leg,Gebratenes Bein,7€,10€,
+2,Tapas,Tapas,Tapas,Pata asada,Roasted Pork,Gebratenes Bein,7€,10€,
 3,Tapas,Tapas,Tapas,Dátiles con bacon,Dates with Bacon,Datteln mit Speck,5€,9€,
 4,Tapas,Tapas,Tapas,Pimientos de padrón,Padron Peppers,Padrón-Paprika,6€,8€,
 5,Tapas,Tapas,Tapas,Queso asado,Roasted Cheese,Gebratener Käse,5€,9€,
@@ -11,8 +11,8 @@ id,category_es,category_en,category_de,name_es,name_en,name_de,price1,price2,pri
 10,Tapas,Tapas,Tapas,Champiñones rellenos de almogrote,Mushrooms Stuffed with Almogrote,Mit Almogrote gefüllte Pilze,4€,8€,
 11,Tapas,Tapas,Tapas,Papas Carambola,Carambola Potatoes,Carambola-Kartoffeln,6€,,
 12,Tapas,Tapas,Tapas,Empanadas de carne mechada,Shredded Meat Empanadas,Fleischempanadas,3.00€/u,,
-13,Tapas,Tapas,Tapas,Montadito de bacalao,Cod Sandwich,Kabeljau-Sandwich,6€/u,,
-14,Tapas,Tapas,Tapas,Montadito de sardina ahumada,Smoked Sardine Sandwich,Sardinen-Sandwich,4€/u,,
+13,Tapas,Tapas,Tapas,Montadito de bacalao,Cod 'Montadito',Kabeljau-Sandwich,6€/u,,
+14,Tapas,Tapas,Tapas,Montadito de sardina ahumada,Smoked Sardine 'Montadito',Sardinen-Sandwich,4€/u,,
 15,Tapas,Tapas,Tapas,Papas arrugadas con mojo,Wrinkled Potatoes with Mojo,Schrumpelige Kartoffeln mit Mojo,5€,8€,
 17,Ensaladas,Salads,Salate,Ensalada de la casa,House Salad,Hausspezialität Salat,10€,15€,
 18,Ensaladas,Salads,Salate,Ensalada de tomate boquerones y aguacate,"Tomato, Anchovy and Avocado Salad","Tomaten-, Sardellen- und Avocado-Salat",10€,,

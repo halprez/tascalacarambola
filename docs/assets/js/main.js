@@ -377,12 +377,43 @@ function initMenuScrollSpy() {
     sections.forEach(section => observer.observe(section));
 }
 
-// Initialize scroll spy after menu loads
+// Adjust font size for menu items that wrap to multiple lines
+function adjustMenuItemFontSizes() {
+    const menuItems = document.querySelectorAll('.menu-table tbody td:nth-child(2)');
+
+    menuItems.forEach(item => {
+        // Reset font size first
+        item.style.fontSize = '';
+
+        // Check if text is wrapping (height > single line height)
+        const lineHeight = parseFloat(window.getComputedStyle(item).lineHeight);
+        const actualHeight = item.clientHeight;
+
+        // If height is greater than one line, reduce font size
+        if (actualHeight > lineHeight * 1.5) {
+            let fontSize = parseFloat(window.getComputedStyle(item).fontSize);
+
+            // Reduce font size until it fits in one line or reaches minimum
+            while (item.clientHeight > lineHeight * 1.5 && fontSize > 10) {
+                fontSize -= 0.5;
+                item.style.fontSize = fontSize + 'px';
+            }
+        }
+    });
+}
+
+// Call on window resize
+window.addEventListener('resize', adjustMenuItemFontSizes);
+
+// Initialize scroll spy and font adjustment after menu loads
 const originalLoadAndRenderMenu = loadAndRenderMenu;
 loadAndRenderMenu = function() {
     originalLoadAndRenderMenu();
     // Wait for DOM to update
-    setTimeout(initMenuScrollSpy, 100);
+    setTimeout(() => {
+        initMenuScrollSpy();
+        adjustMenuItemFontSizes();
+    }, 100);
 };
 
 // Mobile menu toggle

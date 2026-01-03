@@ -684,8 +684,8 @@ main {
     border-collapse: collapse;
     margin: 25px auto;
     font-size: 0.9em;
-    min-width: 90%;
-    max-width: 99%;
+    width: 100%;
+    max-width: 100%;
     border: none;
 }
 
@@ -703,6 +703,42 @@ main {
 
 .post-content table tbody tr {
     border: none;
+}
+
+/* Hide menu table headers */
+.menu-table thead {
+    display: none;
+}
+
+/* Menu table item number */
+.menu-table tbody td:first-child {
+    width: 30px;
+    text-align: left;
+    padding-right: 10px;
+}
+
+/* Menu table item name with dotted leader */
+.menu-table tbody td:nth-child(2) {
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+}
+
+.menu-table tbody td:nth-child(2)::after {
+    content: " ....................................................................................................................................................................................................";
+    position: absolute;
+    padding-left: 4px;
+    color: var(--color-secondary);
+}
+
+/* Menu table price */
+.menu-table tbody td:nth-child(3) {
+    text-align: right;
+    white-space: nowrap;
+    padding-left: 10px;
+    background-color: var(--background);
+    position: relative;
+    z-index: 1;
 }
 
 /* Banner */

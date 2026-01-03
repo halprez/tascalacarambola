@@ -262,12 +262,6 @@ function renderMenuNavigation(categories) {
 }
 
 function renderMenu(categories) {
-    const priceLabel = {
-        es: 'Precio',
-        en: 'Price',
-        de: 'Preis'
-    };
-
     return categories.map(category => `
     <section id="${category.id}" class="menu-category">
       <h3 class="category-title">${getLocalizedName(category.names)}</h3>
@@ -276,7 +270,7 @@ function renderMenu(categories) {
           <tr>
             <th style="text-align: center">#</th>
             <th style="text-align: center">${getTableHeaderLabel(category.id)}</th>
-            <th style="text-align: center">${priceLabel[currentLanguage] || priceLabel['es']}</th>
+            <th style="text-align: center">Precio</th>
           </tr>
         </thead>
         <tbody>
@@ -284,7 +278,7 @@ function renderMenu(categories) {
             <tr>
               <td>${item.id}</td>
               <td>${getLocalizedName(item.names)}</td>
-              <td style="text-align: right">${item.prices.join(', ')}</td>
+              <td style="text-align: right">${item.prices.join(' / ')}</td>
             </tr>
           `).join('')}
         </tbody>

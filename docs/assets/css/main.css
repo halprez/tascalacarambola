@@ -927,6 +927,17 @@ details[open] summary {
     }
 }
 
+/* Price Legend Note */
+.price-legend-note {
+    font-style: italic;
+}
+
+@media (max-width: 684px) {
+    .price-legend-note {
+        font-size: 0.7rem !important;
+    }
+}
+
 /* Menu Category Sections */
 .menu-category {
     margin: 40px 0;
@@ -947,9 +958,20 @@ details[open] summary {
     margin-top: 15px;
 }
 
+/* Taxes included text at bottom */
+.post .text-center {
+    margin-top: 50px;
+    margin-bottom: 120px;
+    padding-bottom: 20px;
+}
+
 @media (max-width: 684px) {
     .menu-category {
         scroll-margin-top: 120px;
+    }
+
+    .post .text-center {
+        margin-bottom: 100px;
     }
 }
 

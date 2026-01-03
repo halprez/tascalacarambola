@@ -64,6 +64,11 @@
             "es": "Precio",
             "en": "Price",
             "de": "Preis"
+        },
+        "price-legend": {
+            "es": "Precios: ½ ración / 1 ración",
+            "en": "Prices: ½ portion / 1 portion",
+            "de": "Preise: ½ Portion / 1 Portion"
         }
     },
     "notes": "Edit the translations above to change any static text on the site. These strings are used in assets/js/main.js in the getTranslation() function."

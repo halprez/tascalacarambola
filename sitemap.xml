@@ -50,4 +50,20 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://tascalacarambola.com/faq.html" />
     </url>
 
+    <!-- Aviso Legal -->
+    <url>
+        <loc>https://tascalacarambola.com/aviso-legal.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Política de Privacidad -->
+    <url>
+        <loc>https://tascalacarambola.com/politica-privacidad.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
 </urlset>

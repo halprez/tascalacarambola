@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="noindex, nofollow">
+    <title>404 - Página no encontrada | La Carambola</title>
+
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+    <link rel="shortcut icon" href="./favicon.ico">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <span class="header__inner">
+                <a href="./" style="text-decoration: none">
+                    <div class="logo">
+                        <p style="font-family: Lucida Sans">I</p>
+                        <span class="logo__cursor">
+                            <p>♥</p>
+                        </span>
+                        <span class="logo__text"></span>
+                        La Carambola
+                    </div>
+                </a>
+
+                <span class="header__right">
+                    <nav class="menu">
+                        <ul class="menu__inner">
+                            <li>
+                                <a href="./menu.html" data-i18n="menu-title">Menú</a>
+                            </li>
+                            <li>
+                                <a href="./reservas.html" data-i18n="reservations">Reservas</a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <div id="language-switcher"></div>
+
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+                </span>
+            </span>
+        </header>
+
+        <!-- Floating Logo -->
+        <div class="theme-logo theme-logo-landing">
+            <img src="./images/logo-white.png" alt="La Carambola" class="logo-dark-theme">
+            <img src="./images/logo-black.png" alt="La Carambola" class="logo-light-theme">
+        </div>
+
+        <!-- Main Content -->
+        <div class="content">
+            <main class="post">
+                <article>
+                    <h1 class="post-title" style="text-align: center;">404</h1>
+
+                    <div class="post-content" style="text-align: center;">
+                        <p id="404-message" style="font-size: 1.2em; margin: 40px 0;">
+                            Página no encontrada
+                        </p>
+
+                        <p id="404-description" style="margin: 20px 0;">
+                            Lo sentimos, la página que buscas no existe.
+                        </p>
+
+                        <p style="margin: 40px 0;">
+                            <a href="./" class="reserve-button" style="display: inline-block;" id="404-home-link">
+                                Volver al inicio
+                            </a>
+                        </p>
+                    </div>
+                </article>
+            </main>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer__inner">
+                <div class="footer__content">
+                    <span>
+                        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">© 2025
+                            Tasca La Carambola</a>
+                    </span>
+                    <span>
+                        <a href="./pdf/aviso_legal.pdf" target="_blank" rel="noopener">Aviso Legal</a>
+                    </span>
+                    <span>
+                        <a href="./pdf/politica.pdf" target="_blank" rel="noopener">Política de privacidad</a>
+                    </span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="./assets/js/main.js"></script>
+    <script>
+        // 404 page translations
+        const translations404 = {
+            'es': {
+                message: 'Página no encontrada',
+                description: 'Lo sentimos, la página que buscas no existe.',
+                homeLink: 'Volver al inicio'
+            },
+            'en': {
+                message: 'Page not found',
+                description: 'Sorry, the page you are looking for does not exist.',
+                homeLink: 'Back to home'
+            },
+            'de': {
+                message: 'Seite nicht gefunden',
+                description: 'Entschuldigung, die gesuchte Seite existiert nicht.',
+                homeLink: 'Zurück zur Startseite'
+            }
+        };
+
+        // Update 404 content based on language
+        window.onLanguageChange = (lang) => {
+            const t = translations404[lang] || translations404['es'];
+            document.getElementById('404-message').textContent = t.message;
+            document.getElementById('404-description').textContent = t.description;
+            document.getElementById('404-home-link').textContent = t.homeLink;
+        };
+    </script>
+</body>
+
+</html>

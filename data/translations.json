@@ -69,6 +69,51 @@
             "es": "Precios: ½ ración / 1 ración",
             "en": "Prices: ½ portion / 1 portion",
             "de": "Preise: ½ Portion / 1 Portion"
+        },
+        "hero-h1": {
+            "es": "Tasca La Carambola — Restaurante en El Sauzal, Tenerife",
+            "en": "Tasca La Carambola — Restaurant in El Sauzal, Tenerife",
+            "de": "Tasca La Carambola — Restaurant in El Sauzal, Teneriffa"
+        },
+        "faq-link": {
+            "es": "Preguntas frecuentes",
+            "en": "FAQ",
+            "de": "Häufige Fragen"
+        },
+        "faq-title": {
+            "es": "Preguntas frecuentes",
+            "en": "Frequently Asked Questions",
+            "de": "Häufig gestellte Fragen"
+        },
+        "faq-q1": {
+            "es": "¿Cuál es el horario de Tasca La Carambola?",
+            "en": "What are Tasca La Carambola's opening hours?",
+            "de": "Wie sind die Öffnungszeiten der Tasca La Carambola?"
+        },
+        "faq-a1": {
+            "es": "Abrimos de lunes a viernes de 19:00 a 00:00. La cocina cierra a las 23:00.",
+            "en": "We are open Monday to Friday from 7:00 PM to midnight. The kitchen closes at 11:00 PM.",
+            "de": "Wir haben Montag bis Freitag von 19:00 bis 24:00 Uhr geöffnet. Die Küche schließt um 23:00 Uhr."
+        },
+        "faq-q2": {
+            "es": "¿Dónde está Tasca La Carambola?",
+            "en": "Where is Tasca La Carambola located?",
+            "de": "Wo befindet sich die Tasca La Carambola?"
+        },
+        "faq-q3": {
+            "es": "¿Cómo puedo reservar mesa?",
+            "en": "How can I book a table?",
+            "de": "Wie kann ich einen Tisch reservieren?"
+        },
+        "faq-q4": {
+            "es": "¿Qué tipo de cocina ofrecen?",
+            "en": "What kind of cuisine do you serve?",
+            "de": "Welche Art von Küche bieten Sie an?"
+        },
+        "faq-q5": {
+            "es": "¿Aceptan grupos grandes?",
+            "en": "Do you accept large groups?",
+            "de": "Akzeptieren Sie große Gruppen?"
         }
     },
     "notes": "Edit the translations above to change any static text on the site. These strings are used in assets/js/main.js in the getTranslation() function."

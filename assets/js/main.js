@@ -1,5 +1,16 @@
 // Language management
-let currentLanguage = localStorage.getItem('selectedLanguage') || 'es';
+function detectBrowserLanguage() {
+    const supported = ['es', 'en', 'de'];
+    const candidates = navigator.languages && navigator.languages.length
+        ? navigator.languages
+        : [navigator.language || 'es'];
+    for (const raw of candidates) {
+        const code = (raw || '').toLowerCase().split('-')[0];
+        if (supported.includes(code)) return code;
+    }
+    return 'es';
+}
+let currentLanguage = localStorage.getItem('selectedLanguage') || detectBrowserLanguage();
 
 // Theme management
 let currentTheme = localStorage.getItem('selectedTheme') || 'dark';

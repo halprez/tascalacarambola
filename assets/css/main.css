@@ -1055,6 +1055,41 @@ details[open] summary {
     cursor: pointer;
 }
 
+.reserve-block {
+    margin: 10px 0 30px;
+    text-align: center;
+}
+
+.reserve-label {
+    font-size: 16px;
+    margin: 0 0 12px;
+}
+
+.reserve-actions {
+    display: inline-flex;
+    gap: 48px;
+    align-items: center;
+    justify-content: center;
+}
+
+.reserve-actions a {
+    color: inherit;
+    display: inline-flex;
+    padding: 10px;
+    border-radius: 50%;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.reserve-actions svg {
+    width: 56px;
+    height: 56px;
+}
+
+.reserve-actions a:hover {
+    color: #f0703e;
+    transform: translateY(-2px);
+}
+
 /* Utility Classes */
 .text-center {
     text-align: center;

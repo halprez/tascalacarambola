@@ -1237,6 +1237,115 @@ details[open] summary {
         max-height: 36px;
     }
 }
+/* Home: single-viewport layout, no body scroll */
+body.home,
+html:has(body.home) {
+    overflow: hidden;
+    height: 100dvh;
+}
+
+body.home .container {
+    height: 100dvh;
+    min-height: 0;
+}
+
+body.home .theme-logo-landing {
+    position: static;
+    transform: none;
+    margin: 10px auto 0;
+    display: flex;
+    justify-content: center;
+}
+
+body.home .theme-logo-landing img {
+    max-height: 130px;
+}
+
+body.home .content {
+    flex: 1;
+    min-height: 0;
+    padding: 0;
+    align-items: center;
+}
+
+body.home main {
+    padding-bottom: 0;
+}
+
+body.home .hours-line {
+    margin-top: 0;
+}
+
+body.home .banner {
+    margin: 6px 0;
+}
+
+body.home .reserve-block {
+    margin: 12px 0 16px;
+}
+
+body.home .location {
+    margin: 12px 0 0;
+    padding: 8px;
+}
+
+body.home .footer {
+    padding: 8px 0;
+}
+
+@media (max-width: 684px) {
+    body.home .theme-logo-landing img {
+        max-height: 100px;
+    }
+
+    body.home .content {
+        padding-bottom: 0;
+    }
+
+    body.home .hours-line {
+        font-size: 0.85rem;
+        margin: 4px 0;
+    }
+
+    body.home p[data-i18n="contact"] {
+        font-size: 0.5rem;
+        margin: 4px 0 2px;
+    }
+
+    body.home .reserve-block {
+        margin: 10px 0 12px;
+    }
+
+    body.home .reserve-actions {
+        gap: 36px;
+    }
+
+    body.home .reserve-actions svg {
+        width: 44px;
+        height: 44px;
+    }
+
+    body.home .social-icons a[href*="whatsapp"],
+    body.home .social-icons a[href*="wa.me"],
+    body.home .social-icons a[href*="tel"],
+    body.home .social-icons a[href*="instagram"],
+    body.home .social-icons a[href*="mailto"] {
+        width: 18px;
+        height: 18px;
+    }
+
+    body.home .social-icons a svg {
+        max-width: 18px;
+        max-height: 18px;
+    }
+
+    body.home .location {
+        font-size: 9px;
+        margin: 6px 0 0;
+        padding: 6px;
+    }
+}
+
 .visually-hidden {
     position: absolute !important;
     width: 1px;

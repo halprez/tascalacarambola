@@ -11,14 +11,14 @@
             "de": "Tasca"
         },
         "hours": {
-            "es": "Horario: De Lun-Vie, de 7pm a 0am. La cocina cierra a las 23:00pm.",
-            "en": "Opening Hours: Mon-Fri, 7pm to midnight. Kitchen closes at 11:00pm.",
-            "de": "Öffnungszeiten: Mo-Fr, 19:00 bis Mitternacht. Küche schließt um 23:00 Uhr."
+            "es": "Horario: De Lun-Vie, de 18:00 a 23:30. La cocina cierra a las 22:30.",
+            "en": "Opening Hours: Mon-Fri, 6pm to 11:30pm. Kitchen closes at 10:30pm.",
+            "de": "Öffnungszeiten: Mo-Fr, 18:00 bis 23:30 Uhr. Küche schließt um 22:30 Uhr."
         },
         "banner-message": {
-            "es": "Horario de invierno: a partir del lunes 2 de noviembre abrimos a las 18:00.",
-            "en": "Winter hours: from Monday, November 2, we open at 6pm.",
-            "de": "Winterzeiten: Ab Montag, 2. November, öffnen wir um 18:00 Uhr."
+            "es": "Horario de invierno: de lunes a viernes de 18:00 a 23:30. La cocina cierra a las 22:30.",
+            "en": "Winter hours: Monday to Friday, 6pm to 11:30pm. Kitchen closes at 10:30pm.",
+            "de": "Winterzeiten: Montag bis Freitag, 18:00 bis 23:30 Uhr. Küche schließt um 22:30 Uhr."
         },
         "menu-title": {
             "es": "Menú",
@@ -91,9 +91,9 @@
             "de": "Wie sind die Öffnungszeiten der Tasca La Carambola?"
         },
         "faq-a1": {
-            "es": "Abrimos de lunes a viernes de 19:00 a 00:00. La cocina cierra a las 23:00.",
-            "en": "We are open Monday to Friday from 7:00 PM to midnight. The kitchen closes at 11:00 PM.",
-            "de": "Wir haben Montag bis Freitag von 19:00 bis 24:00 Uhr geöffnet. Die Küche schließt um 23:00 Uhr."
+            "es": "Abrimos de lunes a viernes de 18:00 a 23:30. La cocina cierra a las 22:30.",
+            "en": "We are open Monday to Friday from 6:00 PM to 11:30 PM. The kitchen closes at 10:30 PM.",
+            "de": "Wir haben Montag bis Freitag von 18:00 bis 23:30 Uhr geöffnet. Die Küche schließt um 22:30 Uhr."
         },
         "faq-q2": {
             "es": "¿Dónde está Tasca La Carambola?",
